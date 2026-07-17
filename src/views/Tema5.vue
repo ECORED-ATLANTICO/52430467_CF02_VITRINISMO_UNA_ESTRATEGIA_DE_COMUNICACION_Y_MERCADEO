@@ -98,7 +98,7 @@
             .col-lg-auto.d-none.d-lg-flex.order-lg-2
               img.d-none.d-lg-flex(src="@/assets/curso/tema5/img11.svg", style="").mx-auto
             .col-lg.order-lg-1
-              p.mb-0 Los almacenes utilizan puntos de exhibición para presentar productos de temporada, promociones especiales o artículos de alta rotación. Su adecuada ubicación favorece la circulación de consumidores y fortalece las estrategias de merchandising dentro del punto de venta.
+              p.mb-0 Los almacenes utilizan puntos de exhibición para presentar productos de temporada, promociones especiales o artículos de alta rotación. Su adecuada ubicación favorece la circulación de consumidores y fortalece las estrategias de <em>merchandising</em> dentro del punto de venta.
 
         p.mb-0 Entre los principales puntos de exhibición utilizados en almacenes se encuentran:
 

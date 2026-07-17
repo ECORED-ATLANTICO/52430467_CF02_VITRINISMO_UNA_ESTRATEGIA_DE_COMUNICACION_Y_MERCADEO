@@ -5,13 +5,13 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Servicios logísticos para merchandising y exhibición
+      h1 Servicios logísticos para <em>merchandising</em> y exhibición
 
     .bg-fondo-2.px-5.py-4
       img(src="@/assets/curso/tema3/img01.png", alt="")
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-11(data-aos="fade-right")
-        p.banner-text Los servicios logísticos para merchandising y exhibición corresponden al conjunto de actividades de apoyo utilizadas para organizar, transportar, instalar y mantener materiales comerciales dentro del punto de venta. Su aplicación permite garantizar el adecuado funcionamiento de vitrinas, exhibidores y estrategias visuales orientadas a fortalecer la presentación de productos y marcas.
+        p.banner-text Los servicios logísticos para <em>merchandising</em> y exhibición corresponden al conjunto de actividades de apoyo utilizadas para organizar, transportar, instalar y mantener materiales comerciales dentro del punto de venta. Su aplicación permite garantizar el adecuado funcionamiento de vitrinas, exhibidores y estrategias visuales orientadas a fortalecer la presentación de productos y marcas.
 
     separador
     

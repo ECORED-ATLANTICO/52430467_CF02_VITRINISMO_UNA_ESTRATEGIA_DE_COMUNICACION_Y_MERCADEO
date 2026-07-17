@@ -15,7 +15,7 @@
             figure
               img(src="@/assets/curso/tema7/img01.png", data-aos="zoom-in")
           .col-lg-7.p-4.p-lg-2
-            p.mb-0(data-aos="fade-right") El componente formativo presenta un ejemplo comercial aplicado, el cual tiene como propósito analizar la implementación de estrategias de exhibición, vitrinismo y merchandising dentro de un punto de venta real, permitiendo identificar la aplicación de elementos visuales, promocionales y logísticos orientados al fortalecimiento de la comunicación comercial y la experiencia del consumidor. Asimismo, busca relacionar los aspectos teóricos desarrollados en el componente formativo con situaciones prácticas presentes en establecimientos comerciales.
+            p.mb-0(data-aos="fade-right") El componente formativo presenta un ejemplo comercial aplicado, el cual tiene como propósito analizar la implementación de estrategias de exhibición, vitrinismo y <em>merchandising</em> dentro de un punto de venta real, permitiendo identificar la aplicación de elementos visuales, promocionales y logísticos orientados al fortalecimiento de la comunicación comercial y la experiencia del consumidor. Asimismo, busca relacionar los aspectos teóricos desarrollados en el componente formativo con situaciones prácticas presentes en establecimientos comerciales.
 
       .row.mb-0.justify-content-center.align-items-center
         .col-lg-10

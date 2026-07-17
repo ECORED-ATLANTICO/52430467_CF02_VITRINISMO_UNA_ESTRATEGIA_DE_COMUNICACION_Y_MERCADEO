@@ -118,7 +118,7 @@
             .tarjeta.tarjeta--blanca.shadow-sm.p-0.h-100
               img(src='@/assets/curso/tema1/img16.png' alt='').mx-auto
               .p-4
-                h4.text-center Material POP
+                h4.text-center Material <em>POP</em>
                 p.text-center Conjunto de elementos publicitarios ubicados en el punto de venta que destacan productos, refuerzan la identidad de la marca e incentivan la decisión de compra del consumidor.
 
             .tarjeta.tarjeta--blanca.shadow-sm.p-0.h-100
@@ -143,7 +143,7 @@
     separador
     
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 1.3 Relación entre merchandising y ventas
+      h2 1.3 Relación entre <em>merchandising</em> y ventas
 
       
     .row.mb-5.justify-content-center.align-items-center
@@ -151,16 +151,16 @@
         figure
           img(src="@/assets/curso/tema1/img20.png", data-aos="zoom-in")
       .col-lg-8
-        p.mb-3(data-aos="fade-right") El merchandising corresponde al conjunto de técnicas utilizadas para presentar productos de manera estratégica dentro del punto de venta con el propósito de estimular las ventas y mejorar la experiencia del consumidor. Su aplicación influye directamente en la percepción visual, la organización comercial y el comportamiento de compra de los clientes.
+        p.mb-3(data-aos="fade-right") El <em>merchandising</em> corresponde al conjunto de técnicas utilizadas para presentar productos de manera estratégica dentro del punto de venta con el propósito de estimular las ventas y mejorar la experiencia del consumidor. Su aplicación influye directamente en la percepción visual, la organización comercial y el comportamiento de compra de los clientes.
 
         .bg-color-2.br-15.p-4.mb-0.shadow-sm(data-aos="fade-right")
           .row.align-items-center.mb-0
             .col-lg-auto.d-none.d-lg-flex.order-lg-2
               img.d-none.d-lg-flex(src="@/assets/curso/tema1/img21.svg", style="").mx-auto
             .col-lg.order-lg-1
-              p.mb-0 La relación entre merchandising y ventas se evidencia en la capacidad que tienen las exhibiciones comerciales para aumentar la visibilidad de productos y estimular compras impulsivas. Una adecuada organización visual permite destacar promociones, facilitar la circulación del consumidor y fortalecer la comunicación comercial dentro del establecimiento.
+              p.mb-0 La relación entre <em>merchandising</em> y ventas se evidencia en la capacidad que tienen las exhibiciones comerciales para aumentar la visibilidad de productos y estimular compras impulsivas. Una adecuada organización visual permite destacar promociones, facilitar la circulación del consumidor y fortalecer la comunicación comercial dentro del establecimiento.
           
-    p.mb-5 Las empresas implementan estrategias de merchandising para:
+    p.mb-5 Las empresas implementan estrategias de <em>merchandising</em> para:
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-12
@@ -218,7 +218,7 @@
               .col-md-12.col-lg-3.mb-4.mb-lg-0.text-center
                 img(src="@/assets/curso/tema1/img27.svg", style="max-width:120px !important").mx-auto
               .col-md-12.col-lg-6.mb-4.mb-lg-0.text-center.text-lg-start
-                p.mb-0 Se invita a consultar el siguiente video donde se explican estrategias de venta y exhibición aplicadas al punto de venta, incluyendo organización visual, promoción comercial y técnicas de merchandising orientadas al incremento de ventas:  
+                p.mb-0 Se invita a consultar el siguiente video donde se explican estrategias de venta y exhibición aplicadas al punto de venta, incluyendo organización visual, promoción comercial y técnicas de <em>merchandising</em> orientadas al incremento de ventas:  
               .col-md-12.col-lg-3.text-center.text-lg-end
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=CDOnbURyZ4Q" target="_blank")
                   span Ver video

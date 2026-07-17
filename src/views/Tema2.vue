@@ -57,7 +57,7 @@
 
             .row.justify-content-center.align-items-center.p-4.p-lg-3
               .col-lg-12
-                h4.mb-3 Material POP
+                h4.mb-3 Material <em>POP</em>
                 p.mb-0 Conjunto de piezas informativas y promocionales ubicadas en el punto de venta para comunicar atributos, beneficios o campañas, fortalecer la presencia de la marca y apoyar la interacción del consumidor con los productos.
 
 
@@ -118,7 +118,7 @@
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/tema2/img11.svg' alt='', style="width: 100px; height: 100px; ").mx-auto
-              h4.text-center Displays publicitarios
+              h4.text-center <em>Displays</em> publicitarios
               p.text-center Estructuras gráficas o tridimensionales que exhiben productos o mensajes comerciales de manera llamativa, incrementando su visibilidad y fortaleciendo la comunicación de la marca en diferentes espacios comerciales.
 
     .bloque-texto-g.bg-color-6.p-3.p-sm-4.p-md-5.mb-5

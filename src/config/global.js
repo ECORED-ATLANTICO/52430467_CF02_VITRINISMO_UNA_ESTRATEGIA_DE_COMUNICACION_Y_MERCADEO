@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Estrategias de exhibición',
     Description:
-      'El componente formativo aborda las estrategias de exhibición comercial y merchandising aplicadas al posicionamiento de productos y marcas dentro del punto de venta. Analiza elementos relacionados con estrategias de venta y exhibición, elementos informativos, servicios logísticos, tipos y sitios de exhibición comercial, así como estrategias de comunicación y mercadeo visual, con el propósito de fortalecer la presentación comercial, la experiencia del consumidor y el impacto visual en las ventas.',
+      'El componente formativo aborda las estrategias de exhibición comercial y <em>merchandising</em> aplicadas al posicionamiento de productos y marcas dentro del punto de venta. Analiza elementos relacionados con estrategias de venta y exhibición, elementos informativos, servicios logísticos, tipos y sitios de exhibición comercial, así como estrategias de comunicación y mercadeo visual, con el propósito de fortalecer la presentación comercial, la experiencia del consumidor y el impacto visual en las ventas.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [

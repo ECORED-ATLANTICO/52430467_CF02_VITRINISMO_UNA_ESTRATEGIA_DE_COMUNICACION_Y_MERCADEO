@@ -208,7 +208,7 @@
                 figure
                   img(src="@/assets/curso/tema5/img16.svg", data-aos="fade-right")
               .col-lg-8.order-1.order-md-1.order-lg-2.p-4.p-lg-3
-                p(data-aos="fade-left").mb-4.text-white Se invita al pódcast “Comunicación visual”, estrategias de marketing y mercadeo visual aplicados al posicionamiento de marcas y exhibición comercial.
+                p(data-aos="fade-left").mb-4.text-white Se invita al pódcast “Comunicación visual”, estrategias de <em>marketing</em> y mercadeo visual aplicados al posicionamiento de marcas y exhibición comercial.
                 TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
                   texto="Comunicación visual"
                   tiempo

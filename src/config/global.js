@@ -51,7 +51,7 @@ export default {
           },
           {
             numero: '1.3',
-            titulo: 'Relación entre merchandising y ventas',
+            titulo: 'Relación entre <em>merchandising</em> y ventas',
             hash: 't_1_3',
           },
         ],
@@ -82,7 +82,7 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Servicios logísticos para merchandising y exhibición',
+        titulo: 'Servicios logísticos para <em>merchandising</em> y exhibición',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -308,7 +308,7 @@ export default {
         'Estrategias visuales orientadas a fortalecer la promoción comercial.',
     },
     {
-      termino: 'Merchandising',
+      termino: '<em>Merchandising</em>',
       significado:
         'Conjunto de técnicas utilizadas para presentar productos y estimular las ventas.',
     },
@@ -358,7 +358,7 @@ export default {
     },
     {
       referencia:
-        'Ríos Quiñónez, M. B. (2024). Análisis del merchandising visual como estrategia de diseño y disposición de productos en farmacias independientes del DMQ. <em>Res Non Verba Revista Científica</em>, 14(1), 1–17.',
+        'Ríos Quiñónez, M. B. (2024). Análisis del <em>merchandising</em> visual como estrategia de diseño y disposición de productos en farmacias independientes del DMQ. <em>Res Non Verba Revista Científica</em>, 14(1), 1–17.',
       link: 'https://revistas.ecotec.edu.ec/index.php/rnv/article/view/840',
     },
     {

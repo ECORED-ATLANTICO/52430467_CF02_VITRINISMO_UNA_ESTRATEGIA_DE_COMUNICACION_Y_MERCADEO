@@ -8,20 +8,20 @@
       h1 Sitios de exhibición para productos manufacturados
 
 
-
-    .row.mb-5.justify-content-center.align-items-center.bg-color-7
-      .col-lg-5.mb-4.mb-lg-0.p-0.col-md-8
-        figure
-          img(src="@/assets/curso/tema5/img01.png", data-aos="zoom-in")
-      .col-lg-7
-        p.mb-0(data-aos="fade-right") Los sitios de exhibición para productos manufacturados corresponden a los espacios utilizados para organizar, presentar y destacar productos dentro de establecimientos comerciales. Su adecuada distribución permite mejorar la visibilidad de los artículos, fortalecer la comunicación visual y favorecer la experiencia del consumidor dentro del punto de venta.
+    .container
+      .row.mb-5.justify-content-center.align-items-center.bg-color-7
+        .col-lg-5.mb-4.mb-lg-0.p-0.p-lg-0.col-md-12
+          figure
+            img(src="@/assets/curso/tema5/img01.png", data-aos="zoom-in")
+        .col-lg-7.p-4.p-lg-2
+          p.mb-0(data-aos="fade-right") Los sitios de exhibición para productos manufacturados corresponden a los espacios utilizados para organizar, presentar y destacar productos dentro de establecimientos comerciales. Su adecuada distribución permite mejorar la visibilidad de los artículos, fortalecer la comunicación visual y favorecer la experiencia del consumidor dentro del punto de venta.
 
     separador
     
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 5.1 Vitrinas comerciales
 
-    .bg-full-width.bg-fondo-2.px-5.py-4
+    .bg-fondo-2.px-5.py-4
       img(src="@/assets/curso/tema5/img02.png", alt="")
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-11(data-aos="fade-right")
@@ -32,43 +32,45 @@
         .bg-color-2.br-15.px-5.py-4
           p.mb-0 Las vitrinas utilizan recursos como iluminación, color, decoración y organización visual para generar impacto comercial y estimular el ingreso de clientes al establecimiento. Una adecuada exhibición en vitrinas permite destacar productos estratégicos y fortalecer campañas promocionales.
 
-    p.mb-4 Entre las principales funciones de las vitrinas comerciales se encuentran:
-    
-    .row.mb-5.justify-content-center.align-items-center
-      .col-lg-4.mb-4.mb-lg-0.col-md-8.order-2.order-lg-1
-        figure
-          img(src="@/assets/curso/tema5/img03.png", data-aos="zoom-in")
-      .col-lg-8.order-1.order-lg-2.col-md-12.mb-4.mb-lg-0
-        SlyderF(columnas="col-lg-6 col-xl-6 col-md-12 col-sm-12")
-          .tarjeta.shadow-sm.p-0.h-100
-            img(src='@/assets/curso/tema5/img04.png' alt='').mx-auto
-            .p-4
-              h4.text-center Atracción visual
-              p.text-center Capta el interés del consumidor mediante elementos visuales que generan impacto, despiertan la curiosidad e invitan a observar la exhibición con mayor atención.
 
-          .tarjeta.shadow-sm.p-0.h-100
-            img(src='@/assets/curso/tema5/img05.png' alt='').mx-auto
-            .p-4
-              h4.text-center Promoción comercial
-              p.text-center Comunica promociones, novedades y productos estratégicos mediante recursos visuales que incrementan su visibilidad y favorecen el cumplimiento de los objetivos de venta.
+    .bg-full-width.bg-fondo-5
+      p.mb-4 Entre las principales funciones de las vitrinas comerciales se encuentran:
+      
+      .row.mb-5.justify-content-center.align-items-center
+        .col-lg-4.mb-4.mb-lg-0.col-md-8.order-2.order-lg-1
+          figure
+            img(src="@/assets/curso/tema5/img03.png", data-aos="zoom-in")
+        .col-lg-8.order-1.order-lg-2.col-md-12.mb-4.mb-lg-0
+          SlyderF(columnas="col-lg-6 col-xl-6 col-md-12 col-sm-12")
+            .tarjeta.tarjeta--blanca.shadow-sm.p-0.h-100
+              img(src='@/assets/curso/tema5/img04.png' alt='').mx-auto
+              .p-4
+                h4.text-center Atracción visual
+                p.text-center Capta el interés del consumidor mediante elementos visuales que generan impacto, despiertan la curiosidad e invitan a observar la exhibición con mayor atención.
 
-          .tarjeta.shadow-sm.p-0.h-100
-            img(src='@/assets/curso/tema5/img06.png' alt='').mx-auto
-            .p-4
-              h4.text-center Identidad de marca
-              p.text-center Refuerza el reconocimiento de la marca mediante el uso coherente de colores, formas, elementos gráficos y otros recursos que reflejan su imagen corporativa.
+            .tarjeta.tarjeta--blanca.shadow-sm.p-0.h-100
+              img(src='@/assets/curso/tema5/img05.png' alt='').mx-auto
+              .p-4
+                h4.text-center Promoción comercial
+                p.text-center Comunica promociones, novedades y productos estratégicos mediante recursos visuales que incrementan su visibilidad y favorecen el cumplimiento de los objetivos de venta.
 
-          .tarjeta.shadow-sm.p-0.h-100
-            img(src='@/assets/curso/tema5/img07.png' alt='').mx-auto
-            .p-4
-              h4.text-center Comunicación comercial
-              p.text-center Transmite información clara sobre productos, beneficios, promociones o campañas, facilitando la comprensión de la oferta y orientando al consumidor durante la compra.
+            .tarjeta.tarjeta--blanca.shadow-sm.p-0.h-100
+              img(src='@/assets/curso/tema5/img06.png' alt='').mx-auto
+              .p-4
+                h4.text-center Identidad de marca
+                p.text-center Refuerza el reconocimiento de la marca mediante el uso coherente de colores, formas, elementos gráficos y otros recursos que reflejan su imagen corporativa.
 
-          .tarjeta.shadow-sm.p-0.h-100
-            img(src='@/assets/curso/tema5/img08.png' alt='').mx-auto
-            .p-4
-              h4.text-center Decisión de compra
-              p.text-center Influye positivamente en la elección del consumidor mediante una presentación atractiva y organizada que resalta el valor de los productos exhibidos.
+            .tarjeta.tarjeta--blanca.shadow-sm.p-0.h-100
+              img(src='@/assets/curso/tema5/img07.png' alt='').mx-auto
+              .p-4
+                h4.text-center Comunicación comercial
+                p.text-center Transmite información clara sobre productos, beneficios, promociones o campañas, facilitando la comprensión de la oferta y orientando al consumidor durante la compra.
+
+            .tarjeta.tarjeta--blanca.shadow-sm.p-0.h-100
+              img(src='@/assets/curso/tema5/img08.png' alt='').mx-auto
+              .p-4
+                h4.text-center Decisión de compra
+                p.text-center Influye positivamente en la elección del consumidor mediante una presentación atractiva y organizada que resalta el valor de los productos exhibidos.
     
     .bloque-texto-g.bloque-texto-g--inverso.bg-color-6.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -189,24 +191,25 @@
                 p.mb-0 Espacios destinados a exhibir productos de alta rotación, lanzamientos o referencias estratégicas, incrementando su visibilidad y fortaleciendo su posicionamiento dentro del punto de venta.
 
 
-    .row.mb-3.justify-content-center.align-items-center
-      .col-lg-10
-        p.mb-0 Por ejemplo, tiendas como Dollarcity ubican productos promocionales y de compra impulsiva cerca de las cajas registradoras para aumentar la visibilidad y estimular las ventas.
+    .bg-full-width.bg-fondo-5
+      .row.mb-3.justify-content-center.align-items-center
+        .col-lg-10
+          p.mb-0 Por ejemplo, tiendas como Dollarcity ubican productos promocionales y de compra impulsiva cerca de las cajas registradoras para aumentar la visibilidad y estimular las ventas.
 
-    .container
-      .row.justify-content-center.align-items-center.mb-5
-        .col-lg-10.order-lg-1
-          .row.bg-color-18.align-items-center.justify-content-center.br-15.p-4
-            .col-md-6.col-lg-4.mb-3.mb-lg-0.order-2.order-md-2.order-lg-1
-              figure
-                img(src="@/assets/curso/tema5/img16.svg", data-aos="fade-right")
-            .col-lg-8.order-1.order-md-1.order-lg-2.p-4.p-lg-3
-              p(data-aos="fade-left").mb-4.text-white Se invita al siguiente pódcast “Percepción visual”, sobre comportamiento del consumidor y estímulos visuales aplicados a estrategias comerciales y puntos de venta.
-              TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
-                texto="Percepción visual"
-                tiempo
-                :audio="require('@/assets/curso/audio/1.mp3')"
-              )
+      .container
+        .row.justify-content-center.align-items-center.mb-5
+          .col-lg-10.order-lg-1
+            .row.bg-color-18.align-items-center.justify-content-center.br-15.p-4
+              .col-md-6.col-lg-4.mb-3.mb-lg-0.order-2.order-md-2.order-lg-1
+                figure
+                  img(src="@/assets/curso/tema5/img16.svg", data-aos="fade-right")
+              .col-lg-8.order-1.order-md-1.order-lg-2.p-4.p-lg-3
+                p(data-aos="fade-left").mb-4.text-white Se invita al siguiente pódcast “Percepción visual”, sobre comportamiento del consumidor y estímulos visuales aplicados a estrategias comerciales y puntos de venta.
+                TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
+                  texto="Percepción visual"
+                  tiempo
+                  :audio="require('@/assets/curso/audio/1.mp3')"
+                )
 
 
 

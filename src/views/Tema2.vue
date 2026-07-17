@@ -7,25 +7,25 @@
         span 2
       h1 Elementos informativos de exhibición
 
-
-    .row.mb-5.justify-content-center.align-items-center.bg-color-7
-      .col-lg-5.mb-4.mb-lg-0.p-0.col-md-8
-        figure
-          img(src="@/assets/curso/tema2/img01.png", data-aos="zoom-in")
-      .col-lg-7
-        p.mb-0(data-aos="fade-right") Los elementos informativos de exhibición corresponden a recursos visuales y comunicativos utilizados para transmitir información comercial dentro del punto de venta. Su aplicación permite orientar al consumidor, destacar productos y fortalecer estrategias promocionales mediante mensajes visuales organizados y atractivos.
+    .container
+      .row.mb-5.justify-content-center.align-items-center.bg-color-7
+        .col-lg-5.mb-4.mb-lg-0.p-0.col-md-12
+          figure
+            img(src="@/assets/curso/tema2/img01.png", data-aos="zoom-in")
+        .col-lg-7.p-4.p-lg-2
+          p.mb-0(data-aos="fade-right") Los elementos informativos de exhibición corresponden a recursos visuales y comunicativos utilizados para transmitir información comercial dentro del punto de venta. Su aplicación permite orientar al consumidor, destacar productos y fortalecer estrategias promocionales mediante mensajes visuales organizados y atractivos.
 
     separador
     
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.1 Tipos de elementos informativos
 
-
-    .row.align-items-center.mb-5.bg-color-2.p-4.br-15
-      .col-lg-auto.d-none.d-lg-flex.order-lg-2
-        img(src="@/assets/curso/tema2/img02.svg", style="").mx-auto
-      .col-lg.order-lg-1
-        p.mb-0 Los elementos informativos permiten comunicar características, promociones y beneficios de productos o servicios dentro de vitrinas y espacios comerciales. Estos recursos facilitan la interacción entre el consumidor y el establecimiento comercial, favoreciendo la experiencia de compra y la identificación visual de productos.
+    .container
+      .row.align-items-center.mb-5.bg-color-2.p-4.br-15
+        .col-lg-auto.d-none.d-lg-flex.order-lg-2
+          img(src="@/assets/curso/tema2/img02.svg", style="").mx-auto
+        .col-lg.order-lg-1
+          p.mb-0 Los elementos informativos permiten comunicar características, promociones y beneficios de productos o servicios dentro de vitrinas y espacios comerciales. Estos recursos facilitan la interacción entre el consumidor y el establecimiento comercial, favoreciendo la experiencia de compra y la identificación visual de productos.
 
     p.mb-5 Entre los principales tipos de elementos informativos se encuentran:
 
@@ -86,39 +86,40 @@
               p.mb-0 Las empresas utilizan diferentes materiales publicitarios según el tipo de producto, el espacio comercial y la estrategia de comunicación implementada. Una adecuada selección de recursos publicitarios contribuye a mejorar la presentación visual y aumentar el impacto comercial.
         p.mb-0 Entre los materiales publicitarios más utilizados se encuentran:
 
-    .row.mb-5.justify-content-center.align-items-center
-      .col-lg-4.mb-4.mb-lg-0.col-md-8.order-2.order-lg-2
-        figure
-          img(src="@/assets/curso/tema2/img07.png", data-aos="zoom-in")
-      .col-lg-8.order-1.order-lg-1.col-md-12.mb-4.mb-lg-0
-        SlyderF(columnas="col-lg-6 col-xl-6 col-md-12 col-sm-12")
-          .tarjeta.shadow-sm.p-4.h-100(style="box-shadow: 15px 15px 15px 15px #707070")
-            .row.justify-content-center.mb-3
-              .col-8
-                img(src='@/assets/curso/tema2/img08.svg' alt='', style="width: 100px; height: 100px; ").mx-auto
-            h4.text-center Volantes promocionales
-            p.text-center Material impreso de fácil distribución que comunica promociones, eventos, productos o servicios mediante información breve y atractiva, con el propósito de captar la atención del público y generar interés comercial.
+    .bg-full-width.bg-fondo-5
+      .row.mb-5.justify-content-center.align-items-center
+        .col-lg-4.mb-4.mb-lg-0.col-md-8.order-2.order-lg-2
+          figure
+            img(src="@/assets/curso/tema2/img07.png", data-aos="zoom-in")
+        .col-lg-8.order-1.order-lg-1.col-md-12.mb-4.mb-lg-0
+          SlyderF(columnas="col-lg-6 col-xl-6 col-md-12 col-sm-12")
+            .tarjeta.tarjeta--blanca.shadow-sm.p-4.h-100
+              .row.justify-content-center.mb-3
+                .col-8
+                  img(src='@/assets/curso/tema2/img08.svg' alt='', style="width: 100px; height: 100px; ").mx-auto
+              h4.text-center Volantes promocionales
+              p.text-center Material impreso de fácil distribución que comunica promociones, eventos, productos o servicios mediante información breve y atractiva, con el propósito de captar la atención del público y generar interés comercial.
 
-          .tarjeta.shadow-sm.p-4.h-100(style="box-shadow: 15px 15px 15px 15px #707070")
-            .row.justify-content-center.mb-3
-              .col-8
-                img(src='@/assets/curso/tema2/img09.svg' alt='', style="width: 100px; height: 100px; ").mx-auto
-            h4.text-center Carteles publicitarios
-            p.text-center Piezas gráficas de mediano o gran formato que presentan mensajes comerciales de manera visible, utilizando imágenes y textos para informar, promocionar o fortalecer el reconocimiento de una marca.
+            .tarjeta.tarjeta--blanca.shadow-sm.p-4.h-100
+              .row.justify-content-center.mb-3
+                .col-8
+                  img(src='@/assets/curso/tema2/img09.svg' alt='', style="width: 100px; height: 100px; ").mx-auto
+              h4.text-center Carteles publicitarios
+              p.text-center Piezas gráficas de mediano o gran formato que presentan mensajes comerciales de manera visible, utilizando imágenes y textos para informar, promocionar o fortalecer el reconocimiento de una marca.
 
-          .tarjeta.shadow-sm.p-4.h-100(style="box-shadow: 15px 15px 15px 15px #707070")
-            .row.justify-content-center.mb-3
-              .col-8
-                img(src='@/assets/curso/tema2/img10.svg' alt='', style="width: 100px; height: 100px; ").mx-auto
-            h4.text-center Exhibidores comerciales
-            p.text-center Estructuras diseñadas para organizar y presentar productos de forma ordenada y atractiva, facilitando su visualización, acceso y destacando sus características dentro del punto de venta.
+            .tarjeta.tarjeta--blanca.shadow-sm.p-4.h-100
+              .row.justify-content-center.mb-3
+                .col-8
+                  img(src='@/assets/curso/tema2/img10.svg' alt='', style="width: 100px; height: 100px; ").mx-auto
+              h4.text-center Exhibidores comerciales
+              p.text-center Estructuras diseñadas para organizar y presentar productos de forma ordenada and atractiva, facilitando su visualización, acceso y destacando sus características dentro del punto de venta.
 
-          .tarjeta.shadow-sm.p-4.h-100(style="box-shadow: 15px 15px 15px 15px #707070")
-            .row.justify-content-center.mb-3
-              .col-8
-                img(src='@/assets/curso/tema2/img11.svg' alt='', style="width: 100px; height: 100px; ").mx-auto
-            h4.text-center Displays publicitarios
-            p.text-center Estructuras gráficas o tridimensionales que exhiben productos o mensajes comerciales de manera llamativa, incrementando su visibilidad y fortaleciendo la comunicación de la marca en diferentes espacios comerciales.
+            .tarjeta.tarjeta--blanca.shadow-sm.p-4.h-100
+              .row.justify-content-center.mb-3
+                .col-8
+                  img(src='@/assets/curso/tema2/img11.svg' alt='', style="width: 100px; height: 100px; ").mx-auto
+              h4.text-center Displays publicitarios
+              p.text-center Estructuras gráficas o tridimensionales que exhiben productos o mensajes comerciales de manera llamativa, incrementando su visibilidad y fortaleciendo la comunicación de la marca en diferentes espacios comerciales.
 
     .bloque-texto-g.bg-color-6.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -176,20 +177,14 @@
       .col-lg-10
         .tarjeta.bg-color-2.p-4
           .row.justify-content-around.align-items-center
-            .col-md-12.col-lg-3.mb-4.mb-lg-0
+            .col-md-12.col-lg-3.mb-4.mb-lg-0.text-center
               img(src="@/assets/curso/tema1/img27.svg", style="max-width:120px !important").mx-auto
-            .col-md-12.col-lg-9
-              .row.justify-content-center.align-items-center
-                .col.mb-4.mb-lg-0
-                  p.mb-0 Se invita a consultar el siguiente video donde se explican elementos informativos de exhibición, material publicitario y aplicación de recursos visuales en vitrinas y puntos de venta:
-                .col-sm-auto.text-align-last
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=iW35vsn1lc0" target="_blank")
-                    span Ver video
-                    i.fas.fa-play
-
-    
-
-
+            .col-md-12.col-lg-6.mb-4.mb-lg-0.text-center.text-lg-start
+              p.mb-0 Se invita a consultar el siguiente video donde se explican elementos informativos de exhibición, material publicitario y aplicación de recursos visuales en vitrinas y puntos de venta:
+            .col-md-12.col-lg-3.text-center.text-lg-end
+              a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=iW35vsn1lc0" target="_blank")
+                span Ver video
+                i.fas.fa-play
 
 </template>
 

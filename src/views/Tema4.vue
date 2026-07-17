@@ -25,23 +25,24 @@
     separador
     
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 4.1	Exhibición horizontal y vertical
+      h2 4.1 Exhibición horizontal y vertical
 
-    .row.mb-5.justify-content-center.align-items-center
-      .col-lg-4.col-md-8.mb-4.mb-lg-0.order-lg-2
-        figure
-          img(src="@/assets/curso/tema4/img03.png", data-aos="zoom-in")
-      .col-lg-8.order-lg-1
-        p.mb-3(data-aos="fade-right") La exhibición horizontal consiste en organizar los productos de manera lateral dentro de estanterías o vitrinas, permitiendo que el consumidor observe varias referencias en un mismo nivel visual. Esta estrategia facilita la comparación de productos y mejora la percepción visual dentro del espacio comercial. 
+    .bg-full-width.bg-fondo-6
+      .row.mb-5.justify-content-center.align-items-center
+        .col-lg-4.col-md-8.mb-4.mb-lg-0.order-lg-2
+          figure
+            img(src="@/assets/curso/tema4/img03.png", data-aos="zoom-in")
+        .col-lg-8.order-lg-1
+          p.mb-3(data-aos="fade-right") La exhibición horizontal consiste en organizar los productos de manera lateral dentro de estanterías o vitrinas, permitiendo que el consumidor observe varias referencias en un mismo nivel visual. Esta estrategia facilita la comparación de productos y mejora la percepción visual dentro del espacio comercial. 
         
-        .bg-color-1.br-15.p-4.mb-3.shadow-sm(data-aos="fade-right")
-          .row.align-items-center.mb-0
-            .col-lg-auto.d-none.d-lg-flex.order-lg-1
-              img.d-none.d-lg-flex(src="@/assets/curso/tema4/img02.svg", style="").mx-auto
-            .col-lg.order-lg-2
-              p.mb-0 Por su parte, la exhibición vertical organiza los productos de arriba hacia abajo, permitiendo destacar marcas o categorías específicas dentro del punto de venta. Esta técnica favorece el recorrido visual del consumidor y facilita la identificación de productos en diferentes niveles de exhibición.
+          .bg-color-1.br-15.p-4.mb-3.shadow-sm(data-aos="fade-right")
+            .row.align-items-center.mb-0
+              .col-lg-auto.d-none.d-lg-flex.order-lg-1
+                img.d-none.d-lg-flex(src="@/assets/curso/tema4/img02.svg", style="").mx-auto
+              .col-lg.order-lg-2
+                p.mb-0 Por su parte, la exhibición vertical organiza los productos de arriba hacia abajo, permitiendo destacar marcas o categorías específicas dentro del punto de venta. Esta técnica favorece el recorrido visual del consumidor y facilita la identificación de productos en diferentes niveles de exhibición.
 
-        p.mb-0 Entre las principales características de estas exhibiciones se encuentran:
+          p.mb-0 Entre las principales características de estas exhibiciones se encuentran:
 
 
     .row.mb-5.justify-content-center.align-items-center
@@ -50,7 +51,7 @@
           h5 
             b Tabla 1.
           span Características de la exhibición horizontal y vertical
-        .tabla-a.color-acento-contenido.mb-5
+        .tabla-a.color-acento-contenido.mb-0
           table
             caption <span style="font-weight: normal">Nota. SENA, (2026).</span>
             thead
@@ -158,19 +159,20 @@
     #t_4_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 4.3 Exhibiciones promocionales y temáticas
 
-    .row.mb-5.justify-content-center.align-items-center
-      .col-lg-4.col-md-8.mb-4.mb-lg-0.order-lg-1
-        figure
-          img(src="@/assets/curso/tema4/img09.png", data-aos="zoom-in")
-      .col-lg-8.order-lg-2
-        p.mb-3(data-aos="fade-right") Las exhibiciones promocionales se utilizan para destacar productos en oferta, lanzamientos o campañas comerciales dentro del punto de venta. Estas exhibiciones buscan captar la atención del consumidor mediante colores llamativos, señalización comercial y material publicitario estratégico.
-        .bg-color-2.br-15.p-4.mb-3.shadow-sm(data-aos="fade-right")
-          .row.align-items-center.mb-0
-            .col-lg-auto.d-none.d-lg-flex.order-lg-2
-              img.d-none.d-lg-flex(src="@/assets/curso/tema4/img10.svg", style="").mx-auto
-            .col-lg.order-lg-1
-              p.mb-0 Las exhibiciones temáticas corresponden a montajes visuales desarrollados según temporadas, celebraciones o eventos especiales. Su finalidad es generar experiencias visuales atractivas y fortalecer la comunicación comercial mediante ambientaciones relacionadas con fechas o campañas específicas.
-        p.mb-0 Entre las principales características de estas exhibiciones se encuentran:
+    .bg-full-width.bg-fondo-5
+      .row.mb-5.justify-content-center.align-items-center
+        .col-lg-4.col-md-8.mb-4.mb-lg-0.order-lg-1
+          figure
+            img(src="@/assets/curso/tema4/img09.png", data-aos="zoom-in")
+        .col-lg-8.order-lg-2
+          p.mb-3(data-aos="fade-right") Las exhibiciones promocionales se utilizan para destacar productos en oferta, lanzamientos o campañas comerciales dentro del punto de venta. Estas exhibiciones buscan captar la atención del consumidor mediante colores llamativos, señalización comercial y material publicitario estratégico.
+          .bg-color-2.br-15.p-4.mb-3.shadow-sm(data-aos="fade-right")
+            .row.align-items-center.mb-0
+              .col-lg-auto.d-none.d-lg-flex.order-lg-2
+                img.d-none.d-lg-flex(src="@/assets/curso/tema4/img10.svg", style="").mx-auto
+              .col-lg.order-lg-1
+                p.mb-0 Las exhibiciones temáticas corresponden a montajes visuales desarrollados según temporadas, celebraciones o eventos especiales. Su finalidad es generar experiencias visuales atractivas y fortalecer la comunicación comercial mediante ambientaciones relacionadas con fechas o campañas específicas.
+          p.mb-0 Entre las principales características de estas exhibiciones se encuentran:
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-4.mb-4.mb-lg-0.col-md-8.order-1.order-lg-2.d-none.d-lg-block

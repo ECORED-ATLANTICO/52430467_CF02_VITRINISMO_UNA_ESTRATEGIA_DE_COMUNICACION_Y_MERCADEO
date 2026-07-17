@@ -202,11 +202,12 @@ figcaption
   background-image: url("../assets/curso/tema1/img01.png") !important
   background-position: center
   background-size: cover
+  border-radius: 25px
 
 .bg-fondo-3
   background-image: url("../assets/curso/tema1/bg02.png") !important
   background-position: center
-  background-size: cover
+  background-size: 100% 100%
 
 .bg-fondo-4
   background-image: url("../assets/curso/tema2/img03.png") !important
@@ -214,12 +215,12 @@ figcaption
   background-size: cover
 
 .bg-fondo-5
-  // background-image: url("../assets/curso/tema1/img27.png") !important
+  background-image: url("../assets/curso/tema1/bg03.png") !important
   background-position: center
   background-size: cover
 
 .bg-fondo-6
-  // background-image: url("../assets/curso/tema2/img03.png") !important
+  background-image: url("../assets/curso/tema1/bg04.png") !important
   background-position: center
   background-size: cover
 
@@ -515,6 +516,9 @@ figcaption
   background-size: cover
   background-position: center
   background-color: #E4FBD7 !important
+  &.azul
+    background-color: #DFF5FB !important
+
 .acordion_titulo
   color: #fff !important
 .acordion__titulo
@@ -732,12 +736,12 @@ a, button, div
 
   //////////////CUSTON SLYDER-A////////
 .slyder-a__bullets__item
-  background-color: #B3C867
-  border: #B3C867
+  background-color: #72935E
+  border: #72935E
 .slyder-a__bullets__item--active
-  background-color: #B3C867
+  background-color: #72935E
 .slyder-a__btn--atrs, .slyder-a__btn--sigt
-  background-color: #C5A07A
+  background-color: #FFD561
   opacity: 1 !important
 .slyder-a__bullets__item
   @media screen and ( max-width: $bp-max-xs )
@@ -1027,8 +1031,11 @@ a, button, div
   background-color: #E1E7FB !important
   border: 4px solid #FFFFFF !important
 
+.slyder-f .slyder-f__btn
+  background-color: #FFD561
+
 .slyder-f .slyder-f__btn .fa-chevron-left, .slyder-f .slyder-f__btn .fa-chevron-right
-  color: #fff !important
+  color: $color-sistema-texto !important
 
 ///// slyder --------------------------------------
 .tarjeta--slyder
@@ -1234,3 +1241,6 @@ a, button, div
   color: $color-sistema-texto
 .tarjeta-audio.color-acento-contenido
   border-color: #FFD561
+
+.shadow-sm
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.12) !important

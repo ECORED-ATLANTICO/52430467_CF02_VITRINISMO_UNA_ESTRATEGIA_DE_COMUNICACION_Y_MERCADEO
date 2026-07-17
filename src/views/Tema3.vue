@@ -7,7 +7,7 @@
         span 3
       h1 Servicios logísticos para merchandising y exhibición
 
-    .bg-full-width.bg-fondo-2.px-5.py-4
+    .bg-fondo-2.px-5.py-4
       img(src="@/assets/curso/tema3/img01.png", alt="")
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-11(data-aos="fade-right")
@@ -30,54 +30,54 @@
     
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-12
-        AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-31")
+        AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-31 azul")
           div(titulo="Organización de productos").px-3.py-0
             .row.mb-0.justify-content-center.align-items-center
               .col-lg-7.mb-4.mb-lg-0
-                p.mb-0(data-aos="fade-right") Consiste en clasificar, ordenar y ubicar los productos según criterios comerciales, facilitando su exhibición, identificación, acceso y conservación dentro del punto de venta.
+                p.mb-0 Consiste en clasificar, ordenar y ubicar los productos según criterios comerciales, facilitando su exhibición, identificación, acceso y conservación dentro del punto de venta.
               .col-lg-5.col-md-8
                 figure
-                  img(src="@/assets/curso/tema3/img03.png", data-aos="zoom-in")
+                  img(src="@/assets/curso/tema3/img03.png")
 
           div(titulo="Reposición de mercancía").px-3.py-0
             .row.mb-0.justify-content-center.align-items-center
               .col-lg-7.mb-4.mb-lg-0
-                p.mb-0(data-aos="fade-right") Proceso de abastecer nuevamente los espacios de exhibición con productos disponibles, garantizando su permanencia, disponibilidad y adecuada presentación durante la jornada comercial.
+                p.mb-0 Proceso de abastecer nuevamente los espacios de exhibición con productos disponibles, garantizando su permanencia, disponibilidad y adecuada presentación durante la jornada comercial.
               .col-lg-5.col-md-8
                 figure
-                  img(src="@/assets/curso/tema3/img04.png", data-aos="zoom-in")
+                  img(src="@/assets/curso/tema3/img04.png")
 
           div(titulo="Montaje de vitrinas").px-3.py-0
             .row.mb-0.justify-content-center.align-items-center
               .col-lg-7.mb-4.mb-lg-0
-                p.mb-0(data-aos="fade-right") Actividad que integra productos, mobiliario, iluminación y elementos decorativos para crear exhibiciones atractivas, alineadas con la identidad visual y los objetivos comerciales de la marca.
+                p.mb-0 Actividad que integra productos, mobiliario, iluminación y elementos decorativos para crear exhibiciones atractivas, alineadas con la identidad visual y los objetivos comerciales de la marca.
               .col-lg-5.col-md-8
                 figure
-                  img(src="@/assets/curso/tema3/img05.png", data-aos="zoom-in")
+                  img(src="@/assets/curso/tema3/img05.png")
 
           div(titulo="Distribución de exhibidores").px-3.py-0
             .row.mb-0.justify-content-center.align-items-center
               .col-lg-7.mb-4.mb-lg-0
-                p.mb-0(data-aos="fade-right") Consiste en ubicar estratégicamente exhibidores y mobiliario comercial para optimizar la visibilidad de los productos, facilitar la circulación y mejorar la experiencia del consumidor.
+                p.mb-0 Consiste en ubicar estratégicamente exhibidores y mobiliario comercial para optimizar la visibilidad de los productos, facilitar la circulación y mejorar la experiencia del consumidor.
               .col-lg-5.col-md-8
                 figure
-                  img(src="@/assets/curso/tema3/img06.png", data-aos="zoom-in")
+                  img(src="@/assets/curso/tema3/img06.png")
 
           div(titulo="Control de inventarios").px-3.py-0
             .row.mb-0.justify-content-center.align-items-center
               .col-lg-7.mb-4.mb-lg-0
-                p.mb-0(data-aos="fade-right") Proceso de registrar, verificar y supervisar las existencias de productos para garantizar su disponibilidad, evitar faltantes o excesos y apoyar una adecuada gestión comercial.
+                p.mb-0 Proceso de registrar, verificar y supervisar las existencias de productos para garantizar su disponibilidad, evitar faltantes o excesos y apoyar una adecuada gestión comercial.
               .col-lg-5.col-md-8
                 figure
-                  img(src="@/assets/curso/tema3/img07.png", data-aos="zoom-in")
+                  img(src="@/assets/curso/tema3/img07.png")
 
           div(titulo="Adecuación de espacios comerciales").px-3.py-0
             .row.mb-0.justify-content-center.align-items-center
               .col-lg-7.mb-4.mb-lg-0
-                p.mb-0(data-aos="fade-right") Comprende la preparación, organización y acondicionamiento del punto de venta para garantizar un ambiente funcional, seguro y atractivo que favorezca la exhibición y la experiencia de compra.
+                p.mb-0 Comprende la preparación, organización y acondicionamiento del punto de venta para garantizar un ambiente funcional, seguro y atractivo que favorezca la exhibición y la experiencia de compra.
               .col-lg-5.col-md-8
                 figure
-                  img(src="@/assets/curso/tema3/img08.png", data-aos="zoom-in")
+                  img(src="@/assets/curso/tema3/img08.png")
 
 
     .row.mb-5.justify-content-center.align-items-center
@@ -162,51 +162,50 @@
             .col-lg.order-lg-1
               p.mb-0 El montaje comercial incluye procesos relacionados con distribución de productos, ubicación de material publicitario, instalación de iluminación y organización visual de espacios comerciales. Una adecuada planificación logística facilita el desarrollo de campañas promocionales y mejora el impacto visual dentro del establecimiento.
 
-    .row.mb-5.justify-content-center.align-items-center
-      .col-lg-5.col-md-8.mb-4.mb-lg-0.order-lg-2
-        figure
-          img(src="@/assets/curso/tema3/img13.png", data-aos="zoom-in")
-      .col-lg-7.order-lg-1
-        p.mb-3(data-aos="fade-right") Entre las principales actividades de apoyo logístico se encuentran:
+    .bg-full-width.bg-fondo-5
+      .row.mb-5.justify-content-center.align-items-center
+        .col-lg-5.col-md-8.mb-4.mb-lg-0.order-lg-2
+          figure
+            img(src="@/assets/curso/tema3/img13.png", data-aos="zoom-in")
+        .col-lg-7.order-lg-1
+          p.mb-3(data-aos="fade-right") Entre las principales actividades de apoyo logístico se encuentran:
 
-        ul.lista-ul--color.mb-3
-          li 
-            i.fas.fa-circle-check
-            | Instalación de vitrinas y exhibidores.    
-          li 
-            i.fas.fa-circle-check
-            | Ubicación estratégica de productos.   
-          li 
-            i.fas.fa-circle-check
-            | Montaje de material publicitario.   
-          li 
-            i.fas.fa-circle-check
-            | Adecuación de iluminación comercial.    
-          li 
-            i.fas.fa-circle-check
-            | Organización de espacios promocionales.    
-          li 
-            i.fas.fa-circle-check
-            | Apoyo técnico en campañas visuales.    
+          ul.lista-ul--color.mb-3
+            li 
+              i.fas.fa-circle-check
+              | Instalación de vitrinas y exhibidores.    
+            li 
+              i.fas.fa-circle-check
+              | Ubicación estratégica de productos.   
+            li 
+              i.fas.fa-circle-check
+              | Montaje de material publicitario.   
+            li 
+              i.fas.fa-circle-check
+              | Adecuación de iluminación comercial.    
+            li 
+              i.fas.fa-circle-check
+              | Organización de espacios promocionales.    
+            li 
+              i.fas.fa-circle-check
+              | Apoyo técnico en campañas visuales.    
 
-        .bg-fondo-3.br-15.p-4
-          p.mb-0 Por ejemplo, almacenes como Homecenter y Falabella implementan procesos logísticos organizados para desarrollar montajes comerciales según temporadas, promociones y lanzamientos de productos.
+          .bg-fondo-3.br-15.p-4
+            p.mb-0 Por ejemplo, almacenes como Homecenter y Falabella implementan procesos logísticos organizados para desarrollar montajes comerciales según temporadas, promociones y lanzamientos de productos.
 
 
-    .row.mb-0.justify-content-center.align-items-center
-      .col-lg-10
-        .tarjeta.bg-color-7.p-4
-          .row.justify-content-around.align-items-center
-            .col-md-12.col-lg-3.mb-4.mb-lg-0
-              img(src="@/assets/curso/tema3/img14.svg", style="max-width:120px !important").mx-auto
-            .col-md-12.col-lg-9
-              .row.justify-content-center.align-items-center
-                .col.mb-4.mb-lg-0
-                  p.mb-0 Consultar la siguiente página web lectura sobre logística aplicada a exhibiciones comerciales, procesos de transporte, montaje y organización de material promocional dentro de espacios de venta:
-                .col-sm-auto.text-align-last
-                  a.boton.color-acento-botones(href="https://www.marketing-schools.org/es/marketing-para-startups/logistica-de-marketing.html" target="_blank")
-                    span Enlace
-                    i.fas.fa-link
+      .row.mb-0.justify-content-center.align-items-center
+        .col-lg-10
+          .tarjeta.bg-color-7.p-4
+            .row.justify-content-around.align-items-center
+              .col-md-12.col-lg-3.mb-4.mb-lg-0.text-center
+                img(src="@/assets/curso/tema3/img14.svg", style="max-width:120px !important").mx-auto
+              .col-md-12.col-lg-6.mb-4.mb-lg-0.text-center.text-lg-start
+                p.mb-0 Consultar la siguiente página web lectura sobre logística aplicada a exhibiciones comerciales, procesos de transporte, montaje y organización de material promocional dentro de espacios de venta:
+              .col-md-12.col-lg-3.text-center.text-lg-end
+                a.boton.color-acento-botones(href="https://www.buske.com/es/blog/retail-display-logistics-the-101-guide-to-how-it-works" target="_blank")
+                  span Enlace
+                  i.fas.fa-link
 
 
 

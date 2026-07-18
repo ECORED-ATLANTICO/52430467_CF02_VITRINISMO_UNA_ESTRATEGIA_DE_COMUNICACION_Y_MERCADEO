@@ -41,7 +41,7 @@
           figure
             img(src="@/assets/curso/tema5/img03.png", data-aos="zoom-in")
         .col-lg-8.order-1.order-lg-2.col-md-12.mb-4.mb-lg-0
-          SlyderF(columnas="col-lg-6 col-xl-6 col-md-12 col-sm-12")
+          SlyderF(columnas="col-lg-6 col-xl-6 col-md-12 col-sm-12 p-2")
             .tarjeta.tarjeta--blanca.shadow-sm.p-0.h-100
               img(src='@/assets/curso/tema5/img04.png' alt='').mx-auto
               .p-4
@@ -93,7 +93,7 @@
           img(src="@/assets/curso/tema5/img10.png", data-aos="zoom-in")
       .col-lg-8.order-lg-2
         p.mb-3(data-aos="fade-right") Los puntos de exhibición en almacenes corresponden a espacios estratégicos ubicados dentro del establecimiento comercial para destacar productos específicos y facilitar la interacción del consumidor con la mercancía. Estos espacios permiten fortalecer campañas promocionales y aumentar la visibilidad de artículos dentro del recorrido comercial.
-        .bg-color-1.br-15.p-4.mb-3.shadow-sm(data-aos="fade-right")
+        .bg-color-1.br-15.p-4.mb-3(data-aos="fade-right")
           .row.align-items-center.mb-0
             .col-lg-auto.d-none.d-lg-flex.order-lg-2
               img.d-none.d-lg-flex(src="@/assets/curso/tema5/img11.svg", style="").mx-auto
@@ -145,7 +145,7 @@
           img(src="@/assets/curso/tema5/img13.png", data-aos="zoom-in")
       .col-lg-8.order-lg-2
         p.mb-3(data-aos="fade-right") Los espacios estratégicos de exhibición corresponden a áreas del punto de venta seleccionadas para maximizar la visibilidad y el impacto comercial de productos y promociones. Estos espacios son organizados según el flujo de consumidores, el tipo de producto y los objetivos comerciales de la empresa.
-        .bg-color-1.br-15.p-4.mb-3.shadow-sm(data-aos="fade-right")
+        .bg-color-1.br-15.p-4.mb-3(data-aos="fade-right")
           .row.align-items-center.mb-0
             .col-lg-auto.d-none.d-lg-flex.order-lg-2
               img.d-none.d-lg-flex(src="@/assets/curso/tema5/img14.svg", style="").mx-auto

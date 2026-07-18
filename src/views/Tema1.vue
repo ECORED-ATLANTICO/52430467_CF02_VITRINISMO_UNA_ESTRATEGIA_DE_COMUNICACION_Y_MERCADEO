@@ -7,7 +7,7 @@
         span 1
       h1 Estrategias de venta y exhibición
 
-    .bg-fondo-2.px-5.py-4
+    .bg-fondo-2.px-lg-5.py-lg-4.p-2
       img(src="@/assets/curso/tema1/img02.png", alt="")
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-11(data-aos="fade-right")
@@ -25,7 +25,7 @@
       .col-lg-8
         p.mb-3(data-aos="fade-right") Las estrategias de exhibición son técnicas utilizadas para organizar y presentar productos dentro de espacios comerciales con el propósito de captar la atención del consumidor y favorecer las ventas. Estas estrategias integran recursos visuales, promocionales y comunicativos orientados a mejorar la percepción de productos y marcas.
 
-        .bg-color-2.br-15.p-4.mb-0.shadow-sm(data-aos="fade-right")
+        .bg-color-2.br-15.p-4.mb-0(data-aos="fade-right")
           .row.align-items-center.mb-0
             .col-lg-auto.d-none.d-lg-flex.order-lg-2
               img.d-none.d-lg-flex(src="@/assets/curso/tema1/img04.svg", style="").mx-auto
@@ -36,11 +36,11 @@
     
     .bg-full-width.bg-fondo-5
       .row.mb-5.justify-content-center.align-items-center
-        .col-lg-4.col-md-8.order-2.order-lg-1
+        .col-lg-4.col-md-8.order-2.order-lg-2
           figure
             img(src="@/assets/curso/tema1/img10.png", data-aos="zoom-in")
-        .col-lg-8.order-1.order-lg-2.col-md-12.mb-4.mb-lg-0
-          SlyderF(columnas="col-lg-6 col-xl-6 col-md-12 col-sm-12")
+        .col-lg-8.order-1.order-lg-1.col-md-12.mb-4.mb-lg-0
+          SlyderF(columnas="col-lg-6 col-xl-6 col-md-12 col-sm-12 p-2")
             .tarjeta.tarjeta--blanca.shadow-sm.p-0.h-100
               img(src='@/assets/curso/tema1/img05.png' alt='').mx-auto
               .p-4
@@ -96,7 +96,7 @@
           figure
             img(src="@/assets/curso/tema1/img12.png", data-aos="zoom-in")
         .col-lg-8.order-1.order-lg-2.col-md-12.mb-4.mb-lg-0
-          SlyderF(columnas="col-lg-6 col-xl-6 col-md-12 col-sm-12")
+          SlyderF(columnas="col-lg-6 col-xl-6 col-md-12 col-sm-12 p-2")
             .tarjeta.tarjeta--blanca.shadow-sm.p-0.h-100
               img(src='@/assets/curso/tema1/img13.png' alt='').mx-auto
               .p-4
@@ -153,7 +153,7 @@
       .col-lg-8
         p.mb-3(data-aos="fade-right") El <em>merchandising</em> corresponde al conjunto de técnicas utilizadas para presentar productos de manera estratégica dentro del punto de venta con el propósito de estimular las ventas y mejorar la experiencia del consumidor. Su aplicación influye directamente en la percepción visual, la organización comercial y el comportamiento de compra de los clientes.
 
-        .bg-color-2.br-15.p-4.mb-0.shadow-sm(data-aos="fade-right")
+        .bg-color-2.br-15.p-4.mb-0(data-aos="fade-right")
           .row.align-items-center.mb-0
             .col-lg-auto.d-none.d-lg-flex.order-lg-2
               img.d-none.d-lg-flex(src="@/assets/curso/tema1/img21.svg", style="").mx-auto
@@ -165,7 +165,7 @@
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-12
         TabsA.color-acento-botones
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Incrementar las ventas")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Incrementar las ventas", style="align-content:center;")
             h4.mb-0 Incrementar las ventas
             .row.align-items-center.mb-0
               .col-lg-auto.order-lg-2.mb-4.mb-lg-0
@@ -173,7 +173,7 @@
               .col-lg.order-lg-1
                 p.mb-0 Promueve la compra mediante exhibiciones atractivas, ubicación estratégica y presentación visual de los productos, generando mayor interés del consumidor y favoreciendo el aumento de las ventas.
                             
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Impulsar productos estratégicos")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Impulsar productos estratégicos", style="align-content:center;")
             h4.mb-0 Impulsar productos estratégicos
             .row.align-items-center.mb-0
               .col-lg-auto.order-lg-2.mb-4.mb-lg-0
@@ -181,7 +181,7 @@
               .col-lg.order-lg-1
                 p.mb-0 Resalta productos de alta rotación, lanzamientos o promociones mediante técnicas de exhibición que incrementan su visibilidad y orientan la atención del consumidor hacia la oferta prioritaria.
 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Mejorar la experiencia de compra")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Mejorar la experiencia de compra", style="align-content:center;")
             h4.mb-0 Mejorar la experiencia de compra
             .row.align-items-center.mb-0
               .col-lg-auto.order-lg-2.mb-4.mb-lg-0
@@ -189,7 +189,7 @@
               .col-lg.order-lg-1
                 p.mb-0 Organiza el punto de venta de forma funcional y atractiva, facilitando el recorrido, la ubicación de productos y una interacción más cómoda, agradable y eficiente para el consumidor.
 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Facilitar la rotación de productos")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Facilitar la rotación de productos", style="align-content:center;")
             h4.mb-0 Facilitar la rotación de productos
             .row.align-items-center.mb-0
               .col-lg-auto.order-lg-2.mb-4.mb-lg-0
@@ -197,7 +197,7 @@
               .col-lg.order-lg-1
                 p.mb-0 Favorece la salida oportuna de los productos mediante exhibiciones estratégicas que impulsan su visibilidad, promueven su compra y contribuyen a optimizar la gestión del inventario.
 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Fortalecer la identidad visual de la marca")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Fortalecer la identidad visual de la marca", style="align-content:center;")
             h4.mb-0 Fortalecer la identidad visual de la marca
             .row.align-items-center.mb-0
               .col-lg-auto.order-lg-2.mb-4.mb-lg-0

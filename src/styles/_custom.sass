@@ -38,7 +38,7 @@
   color: white !important
 
 .banner-interno__titulo__icono i
-  color: $color-primario
+  color: #c2e5f0
 
 figcaption
   font-weight: normal
@@ -206,6 +206,8 @@ figcaption
   background-position: center
   background-size: cover
   border-radius: 25px
+  @media screen and (max-width: $bp-max-sm)
+    border-radius: 15px
 
 .bg-fondo-3
   background-image: url("../assets/curso/tema1/bg02.png") !important
@@ -868,8 +870,8 @@ a, button, div
   @media screen and ( max-width: $bp-max-md )
     border: 3px #2CBE91 solid
 
-.titulo-sexto.color-acento-contenido
-  border-left-color: #2EBDE1
+// .titulo-sexto.color-acento-contenido
+//   border-left-color: #2EBDE1
 
 .lista-ul li i:first-child, .lista-ul--separador li i:first-child, .lista-ul--color li i:first-child
   margin-top: 0px
@@ -972,6 +974,10 @@ a, button, div
 
 .lista-ul--separador li
   border-bottom: dashed 1px #B0C0D2 !important
+
+ul
+  .fa-brands:before, .fa-regular:before, .fa-solid:before, .fa:before, .fab:before, .far:before, .fas:before
+    color: #61CCEE
 
 .lista-ol--separador li:last-child, .lista-ul--separador li:last-child
   border-bottom: none !important
@@ -1247,3 +1253,15 @@ a, button, div
 
 .shadow-sm
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.12) !important
+
+.tabla-a.tb-custom
+  thead
+    border-color: #DFF5FB
+    background-color: #DFF5FB
+    th
+      color: $color-sistema-texto !important
+  tbody
+    tr:nth-child(even)
+      background-color: #F6F6F6
+    tr:nth-child(odd)
+      background-color: #FFFFFF

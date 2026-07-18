@@ -7,9 +7,9 @@
         span 3
       h1 Servicios logísticos para <em>merchandising</em> y exhibición
 
-    .bg-fondo-2.px-5.py-4
+    .bg-fondo-2.px-lg-5.py-lg-4.p-2
       img(src="@/assets/curso/tema3/img01.png", alt="")
-    .row.justify-content-center.align-items-center.z-2.mb-5
+    .row.justify-content-center.align-items-center.z-2.mb-3
       .col-lg-11(data-aos="fade-right")
         p.banner-text Los servicios logísticos para <em>merchandising</em> y exhibición corresponden al conjunto de actividades de apoyo utilizadas para organizar, transportar, instalar y mantener materiales comerciales dentro del punto de venta. Su aplicación permite garantizar el adecuado funcionamiento de vitrinas, exhibidores y estrategias visuales orientadas a fortalecer la presentación de productos y marcas.
 
@@ -155,7 +155,7 @@
           img(src="@/assets/curso/tema3/img11.png", data-aos="zoom-in")
       .col-lg-8
         p.mb-3(data-aos="fade-right") El apoyo logístico en montaje y exhibición comercial corresponde a las actividades orientadas a la instalación y adecuación de vitrinas, exhibidores y espacios promocionales dentro del punto de venta. Estas acciones permiten organizar estratégicamente productos y elementos visuales para fortalecer la comunicación comercial y mejorar la experiencia del consumidor.
-        .bg-color-2.br-15.p-4.mb-3.shadow-sm(data-aos="fade-right")
+        .bg-color-2.br-15.p-4.mb-3(data-aos="fade-right")
           .row.align-items-center.mb-0
             .col-lg-auto.d-none.d-lg-flex.order-lg-2
               img.d-none.d-lg-flex(src="@/assets/curso/tema3/img12.svg", style="").mx-auto

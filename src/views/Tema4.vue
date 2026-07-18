@@ -15,7 +15,7 @@
           img(src="@/assets/curso/tema4/img01.png", data-aos="zoom-in")
       .col-lg-7
         p.mb-3(data-aos="fade-right") Los tipos de exhibición comercial corresponden a las diferentes formas de organizar y presentar productos dentro de vitrinas, estanterías y espacios comerciales. 
-        .bg-color-2.br-15.p-4.mb-3.shadow-sm(data-aos="fade-right")
+        .bg-color-2.br-15.p-4.mb-3(data-aos="fade-right")
           .row.align-items-center.mb-0
             .col-lg-auto.d-none.d-lg-flex.order-lg-2
               img.d-none.d-lg-flex(src="@/assets/curso/tema4/img02.svg", style="").mx-auto
@@ -35,7 +35,7 @@
         .col-lg-8.order-lg-1
           p.mb-3(data-aos="fade-right") La exhibición horizontal consiste en organizar los productos de manera lateral dentro de estanterías o vitrinas, permitiendo que el consumidor observe varias referencias en un mismo nivel visual. Esta estrategia facilita la comparación de productos y mejora la percepción visual dentro del espacio comercial. 
         
-          .bg-color-1.br-15.p-4.mb-3.shadow-sm(data-aos="fade-right")
+          .bg-color-1.br-15.p-4.mb-3(data-aos="fade-right")
             .row.align-items-center.mb-0
               .col-lg-auto.d-none.d-lg-flex.order-lg-1
                 img.d-none.d-lg-flex(src="@/assets/curso/tema4/img02.svg", style="").mx-auto
@@ -51,7 +51,7 @@
           h5 
             b Tabla 1.
           span Características de la exhibición horizontal y vertical
-        .tabla-a.color-acento-contenido.mb-0
+        .tabla-a.tb-custom.mb-0
           table
             caption <span style="font-weight: normal">Nota. SENA, (2026).</span>
             thead
@@ -62,27 +62,27 @@
                 th Ejemplo
             tbody
               tr
-                td.text-bold Organización de productos
+                td Organización de productos
                 td Los productos se disponen de forma continua sobre una misma repisa o nivel, facilitando la comparación entre referencias similares.
                 td Los productos se organizan de arriba hacia abajo, agrupando una misma categoría o marca en diferentes niveles del exhibidor.
                 td En un supermercado, una línea de cereales se exhibe horizontalmente; una marca de bebidas ocupa una columna completa de estantería.
               tr
-                td.text-bold Visibilidad
+                td Visibilidad
                 td Favorece la visualización simultánea de diferentes referencias o presentaciones ubicadas en un mismo plano.
                 td Incrementa la visibilidad de una marca o categoría, ya que permanece dentro del campo visual durante todo el recorrido del exhibidor.
                 td En una góndola de productos de higiene, varias presentaciones se ubican horizontalmente; una marca de shampoo ocupa toda una columna vertical.
               tr
-                td.text-bold Aprovechamiento del espacio
+                td Aprovechamiento del espacio
                 td Optimiza el uso del espacio longitudinal de estantes o góndolas, permitiendo exhibir mayor variedad de productos.
                 td Aprovecha la altura del mobiliario para distribuir los productos de forma organizada y accesible.
                 td En una tienda de conveniencia, los snacks se distribuyen horizontalmente; las bebidas energéticas se organizan verticalmente.
               tr
-                td.text-bold Experiencia del consumidor
+                td Experiencia del consumidor
                 td Facilita la comparación de precios, tamaños y características entre productos similares durante la compra.
                 td Facilita la identificación rápida de marcas o categorías, reduciendo el tiempo de búsqueda del consumidor.
                 td En una tienda de tecnología, diferentes modelos de audífonos se comparan horizontalmente; una marca ocupa una columna vertical completa.
               tr
-                td.text-bold Aplicación comercial
+                td Aplicación comercial
                 td Se utiliza cuando se busca destacar la variedad de productos y favorecer la comparación entre alternativas.
                 td Se emplea para fortalecer la presencia de una marca o categoría y mejorar su reconocimiento dentro del punto de venta.
                 td En una tienda de ropa, las camisetas de distintos colores se exhiben horizontalmente; una colección completa de una marca se organiza verticalmente.
@@ -107,7 +107,7 @@
           img(src="@/assets/curso/tema4/img06.png", data-aos="zoom-in")
       .col-lg-8.order-lg-2
         p.mb-3(data-aos="fade-right") La exhibición abierta corresponde a la presentación de productos con acceso directo para el consumidor, permitiendo observar, manipular y seleccionar artículos libremente dentro del punto de venta. Esta estrategia favorece la interacción con los productos y estimula la compra impulsiva. 
-        .bg-color-2.br-15.p-4.mb-3.shadow-sm(data-aos="fade-right")
+        .bg-color-2.br-15.p-4.mb-3(data-aos="fade-right")
           .row.align-items-center.mb-0
             .col-lg-auto.d-none.d-lg-flex.order-lg-2
               img.d-none.d-lg-flex(src="@/assets/curso/tema4/img07.svg", style="").mx-auto
@@ -166,7 +166,7 @@
             img(src="@/assets/curso/tema4/img09.png", data-aos="zoom-in")
         .col-lg-8.order-lg-2
           p.mb-3(data-aos="fade-right") Las exhibiciones promocionales se utilizan para destacar productos en oferta, lanzamientos o campañas comerciales dentro del punto de venta. Estas exhibiciones buscan captar la atención del consumidor mediante colores llamativos, señalización comercial y material publicitario estratégico.
-          .bg-color-2.br-15.p-4.mb-3.shadow-sm(data-aos="fade-right")
+          .bg-color-2.br-15.p-4.mb-3(data-aos="fade-right")
             .row.align-items-center.mb-0
               .col-lg-auto.d-none.d-lg-flex.order-lg-2
                 img.d-none.d-lg-flex(src="@/assets/curso/tema4/img10.svg", style="").mx-auto

@@ -8,9 +8,9 @@
       h1 Comunicación y mercadeo visual
 
 
-    .bg-fondo-2.px-5.py-4
+    .bg-fondo-2.px-lg-5.py-lg-4.p-2
       img(src="@/assets/curso/tema6/img01.png", alt="")
-    .row.justify-content-center.align-items-center.z-2.mb-5
+    .row.justify-content-center.align-items-center.z-2.mb-3
       .col-lg-11(data-aos="fade-right")
         p.banner-text La comunicación y el mercadeo visual corresponden al conjunto de estrategias utilizadas para transmitir mensajes comerciales mediante recursos gráficos, colores, iluminación, imágenes y elementos visuales dentro del punto de venta. Su aplicación permite fortalecer la identidad de marca, mejorar la experiencia del consumidor y aumentar el impacto comercial de productos y servicios.
 
@@ -25,7 +25,7 @@
           img(src="@/assets/curso/tema6/img02.png", data-aos="zoom-in")
       .col-lg-8.order-lg-2
         p.mb-3(data-aos="fade-right") Las estrategias visuales son acciones orientadas a captar la atención del consumidor y fortalecer la presentación de productos mediante recursos gráficos y visuales organizados estratégicamente. Estas estrategias permiten comunicar promociones, destacar productos y generar experiencias comerciales más atractivas dentro del establecimiento.
-        .bg-color-1.br-15.p-4.mb-3.shadow-sm(data-aos="fade-right")
+        .bg-color-1.br-15.p-4.mb-3(data-aos="fade-right")
           .row.align-items-center.mb-0
             .col-lg-auto.d-none.d-lg-flex.order-lg-2
               img.d-none.d-lg-flex(src="@/assets/curso/tema6/img03.svg", style="").mx-auto
@@ -40,7 +40,7 @@
           figure
             img(src="@/assets/curso/tema6/img04.png", data-aos="zoom-in")
         .col-lg-8.order-1.order-lg-1.col-md-12.mb-4.mb-lg-0
-          SlyderF(columnas="col-lg-6 col-xl-6 col-md-12 col-sm-12")
+          SlyderF(columnas="col-lg-6 col-xl-6 col-md-12 col-sm-12 p-2")
             .tarjeta.tarjeta--blanca.shadow-sm.p-0.h-100
               img(src='@/assets/curso/tema6/img05.png' alt='').mx-auto
               .p-4
@@ -97,7 +97,7 @@
         figure
           img(src="@/assets/curso/tema6/img12.png", data-aos="zoom-in")
       .col-lg-8.order-lg-1
-        .bg-color-1.br-15.p-4.mb-3.shadow-sm(data-aos="fade-right")
+        .bg-color-1.br-15.p-4.mb-0(data-aos="fade-right")
           p.mb-0 La aplicación de estrategias comerciales permite integrar técnicas de exhibición, promoción visual y organización de productos para fortalecer las ventas y mejorar la experiencia del consumidor dentro del punto de venta. Estas estrategias buscan aumentar la visibilidad de productos y favorecer el posicionamiento comercial de las marcas. Las empresas desarrollan estrategias comerciales según el tipo de producto, comportamiento del consumidor y objetivos de venta establecidos dentro de la organización. La adecuada aplicación de estas estrategias permite optimizar espacios comerciales y fortalecer la comunicación visual con los clientes.
 
 
@@ -110,7 +110,7 @@
           h5 
             b Tabla 2.
           span Aplicaciones de estrategias comerciales
-        .tabla-a.color-acento-contenido.mb-0
+        .tabla-a.tb-custom.mb-0
           table
             caption <span style="font-weight: normal">Nota. SENA, (2026).</span>
             thead
@@ -120,27 +120,27 @@
                 th Ejemplo
             tbody
               tr
-                td.text-bold Promoción de productos estratégicos
+                td Promoción de productos estratégicos
                 td Consiste en destacar productos prioritarios mediante exhibiciones, promociones y recursos visuales que incrementan su visibilidad y favorecen el cumplimiento de los objetivos comerciales.
                 td Una cabecera de góndola exhibe productos de alta rotación con descuentos y señalización promocional.
               tr
-                td.text-bold Implementación de campañas visuales
+                td Implementación de campañas visuales
                 td Integra elementos gráficos, colores, iluminación y mensajes promocionales para comunicar campañas comerciales de manera coherente y fortalecer la interacción con el consumidor.
                 td Una campaña de regreso a clases utiliza afiches, pendones y vitrinas con productos escolares.
               tr
-                td.text-bold Organización de espacios promocionales
+                td Organización de espacios promocionales
                 td Distribuye estratégicamente áreas de exhibición para presentar promociones, facilitar el recorrido del consumidor y optimizar la visibilidad de los productos destacados.
                 td Una isla promocional reúne productos relacionados con una temporada especial en el centro del almacén.
               tr
-                td.text-bold Ubicación estratégica de productos
+                td Ubicación estratégica de productos
                 td Organiza los productos según su rotación, rentabilidad o demanda para aumentar su exposición y facilitar su identificación durante el proceso de compra.
                 td Los productos de mayor margen comercial se ubican a la altura de los ojos en las góndolas.
               tr
-                td.text-bold Desarrollo de exhibiciones temáticas
+                td Desarrollo de exhibiciones temáticas
                 td Diseña exhibiciones basadas en temporadas, eventos o campañas comerciales para comunicar un concepto visual atractivo y fortalecer la experiencia del consumidor.
                 td Una vitrina temática de Halloween integra decoración, iluminación y productos alusivos a la temporada.
               tr
-                td.text-bold Fortalecimiento de la identidad visual de marca
+                td Fortalecimiento de la identidad visual de marca
                 td Aplica de forma coherente los elementos visuales de la marca para mejorar su reconocimiento, diferenciación y posicionamiento dentro del establecimiento comercial.
                 td Una zona exclusiva de una marca utiliza sus colores, logotipo, mobiliario y señalización corporativa.
 
@@ -161,7 +161,7 @@
           img(src="@/assets/curso/tema6/img13.png", data-aos="zoom-in")
       .col-lg-8.order-lg-2
         p.mb-3(data-aos="fade-right") El impacto visual dentro del punto de venta influye directamente en las decisiones de compra y en el comportamiento del consumidor. Una adecuada organización visual permite captar la atención, destacar promociones y generar experiencias comerciales que favorecen el incremento de ventas y el posicionamiento de productos y marcas.
-        .bg-color-2.br-15.p-4.mb-0.shadow-sm(data-aos="fade-right")
+        .bg-color-2.br-15.p-4.mb-0(data-aos="fade-right")
           .row.align-items-center.mb-0
             .col-lg-auto.d-none.d-lg-flex.order-lg-2
               img.d-none.d-lg-flex(src="@/assets/curso/tema6/img14.svg", style="").mx-auto

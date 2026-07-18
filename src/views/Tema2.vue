@@ -78,7 +78,7 @@
           img(src="@/assets/curso/tema2/img05.png", data-aos="zoom-in")
       .col-lg-8
         p.mb-3(data-aos="fade-right") El material publicitario corresponde al conjunto de recursos gráficos y promocionales utilizados para destacar productos, marcas y campañas comerciales dentro de espacios de exhibición. Su finalidad es captar la atención del consumidor y fortalecer el posicionamiento visual de los productos en el mercado.
-        .bg-color-2.br-15.p-4.mb-3.shadow-sm(data-aos="fade-right")
+        .bg-color-2.br-15.p-4.mb-3(data-aos="fade-right")
           .row.align-items-center.mb-0
             .col-lg-auto.d-none.d-lg-flex.order-lg-2
               img.d-none.d-lg-flex(src="@/assets/curso/tema2/img06.svg", style="").mx-auto
@@ -92,7 +92,7 @@
           figure
             img(src="@/assets/curso/tema2/img07.png", data-aos="zoom-in")
         .col-lg-8.order-1.order-lg-1.col-md-12.mb-4.mb-lg-0
-          SlyderF(columnas="col-lg-6 col-xl-6 col-md-12 col-sm-12")
+          SlyderF(columnas="col-lg-6 col-xl-6 col-md-12 col-sm-12 p-2")
             .tarjeta.tarjeta--blanca.shadow-sm.p-4.h-100
               .row.justify-content-center.mb-3
                 .col-8
@@ -140,7 +140,7 @@
           img(src="@/assets/curso/tema2/img13.png", data-aos="zoom-in")
       .col-lg-8
         p.mb-3(data-aos="fade-right") Los elementos visuales en vitrinas permiten organizar productos y comunicar mensajes comerciales mediante recursos como iluminación, color, señalización y decoración. Su adecuada aplicación favorece la percepción visual del consumidor y fortalece la experiencia comercial dentro del establecimiento.
-        .bg-color-1.br-15.p-4.mb-3.shadow-sm(data-aos="fade-right")
+        .bg-color-1.br-15.p-4.mb-0(data-aos="fade-right")
           .row.align-items-center.mb-0
             .col-lg-auto.d-none.d-lg-flex.order-lg-2
               img.d-none.d-lg-flex(src="@/assets/curso/tema2/img14.svg", style="").mx-auto

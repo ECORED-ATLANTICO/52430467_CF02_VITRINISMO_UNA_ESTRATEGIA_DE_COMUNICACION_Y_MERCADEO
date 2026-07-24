@@ -70,12 +70,12 @@
                 td Visibilidad
                 td Favorece la visualización simultánea de diferentes referencias o presentaciones ubicadas en un mismo plano.
                 td Incrementa la visibilidad de una marca o categoría, ya que permanece dentro del campo visual durante todo el recorrido del exhibidor.
-                td En una góndola de productos de higiene, varias presentaciones se ubican horizontalmente; una marca de shampoo ocupa toda una columna vertical.
+                td En una góndola de productos de higiene, varias presentaciones se ubican horizontalmente; una marca de <em>shampoo</em> ocupa toda una columna vertical.
               tr
                 td Aprovechamiento del espacio
                 td Optimiza el uso del espacio longitudinal de estantes o góndolas, permitiendo exhibir mayor variedad de productos.
                 td Aprovecha la altura del mobiliario para distribuir los productos de forma organizada y accesible.
-                td En una tienda de conveniencia, los snacks se distribuyen horizontalmente; las bebidas energéticas se organizan verticalmente.
+                td En una tienda de conveniencia, los <em>snacks</em> se distribuyen horizontalmente; las bebidas energéticas se organizan verticalmente.
               tr
                 td Experiencia del consumidor
                 td Facilita la comparación de precios, tamaños y características entre productos similares durante la compra.

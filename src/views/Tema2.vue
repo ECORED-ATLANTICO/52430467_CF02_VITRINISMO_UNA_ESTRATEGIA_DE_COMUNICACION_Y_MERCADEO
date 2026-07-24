@@ -57,7 +57,7 @@
 
             .row.justify-content-center.align-items-center.p-4.p-lg-3
               .col-lg-12
-                h4.mb-3 Material <em>POP</em>
+                h4.mb-3 Material POP
                 p.mb-0 Conjunto de piezas informativas y promocionales ubicadas en el punto de venta para comunicar atributos, beneficios o campañas, fortalecer la presencia de la marca y apoyar la interacción del consumidor con los productos.
 
 

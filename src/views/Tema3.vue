@@ -203,7 +203,7 @@
               .col-md-12.col-lg-3.mb-4.mb-lg-0.text-center
                 img(src="@/assets/curso/tema3/img14.svg", style="max-width:120px !important").mx-auto
               .col-md-12.col-lg-6.mb-4.mb-lg-0.text-center.text-lg-start
-                p.mb-0 Consultar la siguiente página web lectura sobre logística aplicada a exhibiciones comerciales, procesos de transporte, montaje y organización de material promocional dentro de espacios de venta:
+                p.mb-0 Consultar la siguiente página web sobre logística aplicada a exhibiciones comerciales, procesos de transporte, montaje y organización de material promocional dentro de espacios de venta:
               .col-md-12.col-lg-3.text-center.text-lg-end
                 a.boton.color-acento-botones(href="https://www.buske.com/es/blog/retail-display-logistics-the-101-guide-to-how-it-works" target="_blank")
                   span Enlace

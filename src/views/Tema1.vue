@@ -118,7 +118,7 @@
             .tarjeta.tarjeta--blanca.shadow-sm.p-0.h-100
               img(src='@/assets/curso/tema1/img16.png' alt='').mx-auto
               .p-4
-                h4.text-center Material <em>POP</em>
+                h4.text-center Material POP
                 p.text-center Conjunto de elementos publicitarios ubicados en el punto de venta que destacan productos, refuerzan la identidad de la marca e incentivan la decisión de compra del consumidor.
 
             .tarjeta.tarjeta--blanca.shadow-sm.p-0.h-100

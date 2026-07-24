@@ -193,7 +193,7 @@
 
     .bg-full-width.bg-fondo-5
       .row.mb-3.justify-content-center.align-items-center
-        .col-lg-10
+        .col-lg-8
           p.mb-0 Por ejemplo, tiendas como Dollarcity ubican productos promocionales y de compra impulsiva cerca de las cajas registradoras para aumentar la visibilidad y estimular las ventas.
 
       .container

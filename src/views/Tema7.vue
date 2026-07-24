@@ -27,7 +27,7 @@
                   h4.text-bold Estrategias de exhibición: Fashion Urban
                   p.mb-0 Lo invitamos a descargar el siguiente documento, el cual explica de manera detallada los diferentes componentes de un plan de negocios.
                 .col-md-12.col-lg-3.text-center.text-lg-end
-                  a.boton.color-acento-botones(:href="obtenerLink('downloads/anexos/Anexo1_Estrategias_de_exhibición_Fashion_Urban.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('downloads/Anexos/Anexo1_Estrategias_de_exhibición_Fashion_Urban.pdf')" target="_blank")
                     span Enlace
                     i.fas.fa-link
 

@@ -166,7 +166,7 @@
             img(src="@/assets/curso/tema4/img09.png", data-aos="zoom-in")
         .col-lg-8.order-lg-2
           p.mb-3(data-aos="fade-right") Las exhibiciones promocionales se utilizan para destacar productos en oferta, lanzamientos o campañas comerciales dentro del punto de venta. Estas exhibiciones buscan captar la atención del consumidor mediante colores llamativos, señalización comercial y material publicitario estratégico.
-          .bg-color-2.br-15.p-4.mb-3(data-aos="fade-right")
+          .bg-color-3.br-15.p-4.mb-3(data-aos="fade-right")
             .row.align-items-center.mb-0
               .col-lg-auto.d-none.d-lg-flex.order-lg-2
                 img.d-none.d-lg-flex(src="@/assets/curso/tema4/img10.svg", style="").mx-auto
@@ -182,19 +182,19 @@
     
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-31")
           div(titulo="Promoción comercial")
-            p.ms-5 Resalta productos, lanzamientos o promociones mediante recursos visuales que incrementan su visibilidad, atraen la atención del consumidor y favorecen el cumplimiento de los objetivos comerciales.
+            p.ms-1.ms-lg-5 Resalta productos, lanzamientos o promociones mediante recursos visuales que incrementan su visibilidad, atraen la atención del consumidor y favorecen el cumplimiento de los objetivos comerciales.
 
           div(titulo="Apoyo a campañas")
-            p.ms-5 Refuerza campañas comerciales y temporadas especiales mediante elementos gráficos y exhibiciones temáticas que comunican mensajes coherentes con las estrategias de mercadeo de la organización.
+            p.ms-1.ms-lg-5 Refuerza campañas comerciales y temporadas especiales mediante elementos gráficos y exhibiciones temáticas que comunican mensajes coherentes con las estrategias de mercadeo de la organización.
 
           div(titulo="Impacto visual")
-            p.ms-5 Capta la atención del consumidor mediante la combinación de colores, iluminación, formas y recursos gráficos que generan una impresión atractiva y favorecen el interés por los productos.
+            p.ms-1.ms-lg-5 Capta la atención del consumidor mediante la combinación de colores, iluminación, formas y recursos gráficos que generan una impresión atractiva y favorecen el interés por los productos.
 
           div(titulo="Experiencia de compra")
-            p.ms-5 Contribuye a crear un ambiente organizado, atractivo y funcional que facilita el recorrido del consumidor y mejora su interacción con los productos y la marca.
+            p.ms-1.ms-lg-5 Contribuye a crear un ambiente organizado, atractivo y funcional que facilita el recorrido del consumidor y mejora su interacción con los productos y la marca.
 
           div(titulo="Posicionamiento de marca")
-            p.ms-5 Fortalece el reconocimiento y la recordación de la marca mediante una exhibición coherente con su identidad visual, diferenciándola de la competencia y reforzando su presencia comercial.
+            p.ms-1.ms-lg-5 Fortalece el reconocimiento y la recordación de la marca mediante una exhibición coherente con su identidad visual, diferenciándola de la competencia y reforzando su presencia comercial.
 
     .bloque-texto-g.bloque-texto-g--inverso.bg-color-6.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(

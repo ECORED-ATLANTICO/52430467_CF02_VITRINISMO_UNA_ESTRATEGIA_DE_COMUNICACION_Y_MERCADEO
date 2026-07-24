@@ -25,7 +25,7 @@
           img(src="@/assets/curso/tema6/img02.png", data-aos="zoom-in")
       .col-lg-8.order-lg-2
         p.mb-3(data-aos="fade-right") Las estrategias visuales son acciones orientadas a captar la atención del consumidor y fortalecer la presentación de productos mediante recursos gráficos y visuales organizados estratégicamente. Estas estrategias permiten comunicar promociones, destacar productos y generar experiencias comerciales más atractivas dentro del establecimiento.
-        .bg-color-1.br-15.p-4.mb-3(data-aos="fade-right")
+        .bg-color-2.br-15.p-4.mb-3(data-aos="fade-right")
           .row.align-items-center.mb-0
             .col-lg-auto.d-none.d-lg-flex.order-lg-2
               img.d-none.d-lg-flex(src="@/assets/curso/tema6/img03.svg", style="").mx-auto
@@ -91,19 +91,20 @@
     #t_6_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 6.2 Aplicación de estrategias comerciales    
 
-    
-    .row.mb-5.justify-content-center.align-items-center
-      .col-lg-4.col-md-8.mb-4.mb-lg-0.order-lg-2
-        figure
-          img(src="@/assets/curso/tema6/img12.png", data-aos="zoom-in")
-      .col-lg-8.order-lg-1
-        .bg-color-1.br-15.p-4.mb-0(data-aos="fade-right")
-          p.mb-0 La aplicación de estrategias comerciales permite integrar técnicas de exhibición, promoción visual y organización de productos para fortalecer las ventas y mejorar la experiencia del consumidor dentro del punto de venta. Estas estrategias buscan aumentar la visibilidad de productos y favorecer el posicionamiento comercial de las marcas. Las empresas desarrollan estrategias comerciales según el tipo de producto, comportamiento del consumidor y objetivos de venta establecidos dentro de la organización. La adecuada aplicación de estas estrategias permite optimizar espacios comerciales y fortalecer la comunicación visual con los clientes.
+    .bg-full-width.bg-fondo-7
+
+      .row.mb-5.justify-content-center.align-items-center
+        .col-lg-4.col-md-8.mb-4.mb-lg-0.order-lg-2
+          figure
+            img(src="@/assets/curso/tema6/img12.png", data-aos="zoom-in")
+        .col-lg-8.order-lg-1
+          .bg-color-1.br-15.p-4.mb-0(data-aos="fade-right")
+            p.mb-0 La aplicación de estrategias comerciales permite integrar técnicas de exhibición, promoción visual y organización de productos para fortalecer las ventas y mejorar la experiencia del consumidor dentro del punto de venta. Estas estrategias buscan aumentar la visibilidad de productos y favorecer el posicionamiento comercial de las marcas. Las empresas desarrollan estrategias comerciales según el tipo de producto, comportamiento del consumidor y objetivos de venta establecidos dentro de la organización. La adecuada aplicación de estas estrategias permite optimizar espacios comerciales y fortalecer la comunicación visual con los clientes.
 
 
-    p.mb-5 Entre las principales aplicaciones de estrategias comerciales se encuentran:
+      p.mb-5 Entre las principales aplicaciones de estrategias comerciales se encuentran:
 
-    
+  
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-10.col-md-12.mb-0.mb-lg-0
         .titulo-sexto.color-acento-contenido.mb-3
@@ -176,24 +177,26 @@
         p.mb-3(data-aos="fade-right") Entre los principales beneficios del impacto visual en ventas se encuentran:
 
         ul.lista-ul--color.mb-3
-          li 
-            i.fas.fa-circle-check
-            | Aumento de visibilidad de productos.
-          li 
-            i.fas.fa-circle-check
-            | Incremento de compras impulsivas.
-          li 
-            i.fas.fa-circle-check
-            | Mejora de la experiencia del consumidor.
-          li 
-            i.fas.fa-circle-check
-            | Fortalecimiento del posicionamiento de marca.
-          li 
-            i.fas.fa-circle-check
-            | Mayor atracción de clientes al establecimiento.
-          li 
-            i.fas.fa-circle-check
-            | Incremento de ventas comerciales.
+          li
+            ul
+              li
+                i.fas.fa-circle-check
+                | Aumento de visibilidad de productos.
+              li 
+                i.fas.fa-circle-check
+                | Incremento de compras impulsivas.
+              li 
+                i.fas.fa-circle-check
+                | Mejora de la experiencia del consumidor.
+              li 
+                i.fas.fa-circle-check
+                | Fortalecimiento del posicionamiento de marca.
+              li 
+                i.fas.fa-circle-check
+                | Mayor atracción de clientes al establecimiento.
+              li 
+                i.fas.fa-circle-check
+                | Incremento de ventas comerciales.
 
 
         .bg-fondo-3.br-15.p-4
@@ -202,7 +205,7 @@
     .bg-full-width.bg-fondo-5
       .container
         .row.justify-content-center.align-items-center.mb-5
-          .col-lg-10.order-lg-1
+          .col-lg-8.order-lg-1
             .row.bg-color-18.align-items-center.justify-content-center.br-15.p-4
               .col-md-6.col-lg-4.mb-3.mb-lg-0.order-2.order-md-2.order-lg-1
                 figure

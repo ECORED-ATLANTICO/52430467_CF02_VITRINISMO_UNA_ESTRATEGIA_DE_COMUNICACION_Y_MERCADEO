@@ -221,7 +221,7 @@
                 p.mb-0 Se invita a consultar el siguiente video donde se explican estrategias de venta y exhibición aplicadas al punto de venta, incluyendo organización visual, promoción comercial y técnicas de <em>merchandising</em> orientadas al incremento de ventas:  
               .col-md-12.col-lg-3.text-center.text-lg-end
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=CDOnbURyZ4Q" target="_blank")
-                  span Ver video
+                  span Ir al video
                   i.fas.fa-play
 
     

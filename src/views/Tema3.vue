@@ -171,24 +171,26 @@
           p.mb-3(data-aos="fade-right") Entre las principales actividades de apoyo logístico se encuentran:
 
           ul.lista-ul--color.mb-3
-            li 
-              i.fas.fa-circle-check
-              | Instalación de vitrinas y exhibidores.    
-            li 
-              i.fas.fa-circle-check
-              | Ubicación estratégica de productos.   
-            li 
-              i.fas.fa-circle-check
-              | Montaje de material publicitario.   
-            li 
-              i.fas.fa-circle-check
-              | Adecuación de iluminación comercial.    
-            li 
-              i.fas.fa-circle-check
-              | Organización de espacios promocionales.    
-            li 
-              i.fas.fa-circle-check
-              | Apoyo técnico en campañas visuales.    
+            li
+              ul
+                li 
+                  i.fas.fa-circle-check
+                  | Instalación de vitrinas y exhibidores.    
+                li 
+                  i.fas.fa-circle-check
+                  | Ubicación estratégica de productos.   
+                li 
+                  i.fas.fa-circle-check
+                  | Montaje de material publicitario.   
+                li 
+                  i.fas.fa-circle-check
+                  | Adecuación de iluminación comercial.    
+                li 
+                  i.fas.fa-circle-check
+                  | Organización de espacios promocionales.    
+                li 
+                  i.fas.fa-circle-check
+                  | Apoyo técnico en campañas visuales.    
 
           .bg-fondo-3.br-15.p-4
             p.mb-0 Por ejemplo, almacenes como Homecenter y Falabella implementan procesos logísticos organizados para desarrollar montajes comerciales según temporadas, promociones y lanzamientos de productos.

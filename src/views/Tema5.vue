@@ -21,7 +21,7 @@
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 5.1 Vitrinas comerciales
 
-    .bg-fondo-2.px-5.py-4
+    .bg-fondo-2.px-lg-5.py-lg-4.p-2
       img(src="@/assets/curso/tema5/img02.png", alt="")
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-11(data-aos="fade-right")
@@ -111,22 +111,22 @@
     
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-31")
           div(titulo="Cabeceras de góndola")
-            p.ms-5 Espacios ubicados en los extremos de las góndolas, destinados a destacar productos estratégicos, promociones o lanzamientos por su alta visibilidad y capacidad para atraer la atención del consumidor.
+            p.ms-1.ms-lg-5 Espacios ubicados en los extremos de las góndolas, destinados a destacar productos estratégicos, promociones o lanzamientos por su alta visibilidad y capacidad para atraer la atención del consumidor.
 
           div(titulo="Islas promocionales")
-            p.ms-5 Exhibiciones independientes ubicadas en zonas de alta circulación, diseñadas para resaltar productos específicos, campañas comerciales o promociones mediante una presentación accesible y llamativa.
+            p.ms-1.ms-lg-5 Exhibiciones independientes ubicadas en zonas de alta circulación, diseñadas para resaltar productos específicos, campañas comerciales o promociones mediante una presentación accesible y llamativa.
 
           div(titulo="Exhibidores centrales")
-            p.ms-5 Estructuras ubicadas en áreas centrales del establecimiento que presentan productos de forma organizada, favoreciendo su visibilidad y facilitando el acceso desde diferentes puntos del recorrido comercial.
+            p.ms-1.ms-lg-5 Estructuras ubicadas en áreas centrales del establecimiento que presentan productos de forma organizada, favoreciendo su visibilidad y facilitando el acceso desde diferentes puntos del recorrido comercial.
 
           div(titulo="Zonas de impulso")
-            p.ms-5 Espacios cercanos a cajas o áreas de espera donde se exhiben productos de compra espontánea, incentivando decisiones rápidas y complementando la compra principal del consumidor.
+            p.ms-1.ms-lg-5 Espacios cercanos a cajas o áreas de espera donde se exhiben productos de compra espontánea, incentivando decisiones rápidas y complementando la compra principal del consumidor.
 
           div(titulo="Puntos promocionales temporales")
-            p.ms-5 Áreas de exhibición instaladas por tiempo limitado para apoyar campañas, temporadas especiales, descuentos o eventos comerciales, incrementando la visibilidad de productos específicos.
+            p.ms-1.ms-lg-5 Áreas de exhibición instaladas por tiempo limitado para apoyar campañas, temporadas especiales, descuentos o eventos comerciales, incrementando la visibilidad de productos específicos.
 
           div(titulo="Áreas de lanzamiento de productos")
-            p.ms-5 Espacios destinados a presentar nuevos productos mediante exhibiciones destacadas que generan expectativa, fortalecen la comunicación comercial y favorecen su posicionamiento en el mercado.
+            p.ms-1.ms-lg-5 Espacios destinados a presentar nuevos productos mediante exhibiciones destacadas que generan expectativa, fortalecen la comunicación comercial y favorecen su posicionamiento en el mercado.
 
 
     .row.mb-5.justify-content-center.align-items-center
@@ -198,7 +198,7 @@
 
       .container
         .row.justify-content-center.align-items-center.mb-5
-          .col-lg-10.order-lg-1
+          .col-lg-8.order-lg-1
             .row.bg-color-18.align-items-center.justify-content-center.br-15.p-4
               .col-md-6.col-lg-4.mb-3.mb-lg-0.order-2.order-md-2.order-lg-1
                 figure

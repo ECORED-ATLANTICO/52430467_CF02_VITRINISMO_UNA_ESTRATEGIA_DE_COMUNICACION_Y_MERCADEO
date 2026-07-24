@@ -155,22 +155,22 @@
     
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-31")
           div(titulo="Iluminación comercial")
-            p.ms-5 Sistema de iluminación diseñado para resaltar productos, crear ambientes atractivos, dirigir la atención del consumidor y mejorar la percepción visual de la vitrina y sus elementos.
+            p.ms-1.ms-lg-5 Sistema de iluminación diseñado para resaltar productos, crear ambientes atractivos, dirigir la atención del consumidor y mejorar la percepción visual de la vitrina y sus elementos.
 
           div(titulo="Colores corporativos")
-            p.ms-5 Conjunto de colores que representan la identidad visual de una marca, fortaleciendo su reconocimiento, diferenciación y coherencia en la comunicación gráfica y comercial de la vitrina.
+            p.ms-1.ms-lg-5 Conjunto de colores que representan la identidad visual de una marca, fortaleciendo su reconocimiento, diferenciación y coherencia en la comunicación gráfica y comercial de la vitrina.
 
           div(titulo="Señalización visual")
-            p.ms-5 Elementos gráficos que orientan, informan o destacan áreas, productos y promociones mediante símbolos, colores y textos, facilitando la comprensión y el recorrido visual del consumidor.
+            p.ms-1.ms-lg-5 Elementos gráficos que orientan, informan o destacan áreas, productos y promociones mediante símbolos, colores y textos, facilitando la comprensión y el recorrido visual del consumidor.
 
           div(titulo="Elementos decorativos")
-            p.ms-5 Objetos ornamentales utilizados para complementar la composición visual de la vitrina, reforzar la temática de exhibición y generar ambientes acordes con la identidad de la marca.
+            p.ms-1.ms-lg-5 Objetos ornamentales utilizados para complementar la composición visual de la vitrina, reforzar la temática de exhibición y generar ambientes acordes con la identidad de la marca.
 
           div(titulo="Maniquíes y exhibidores")
-            p.ms-5 Recursos utilizados para presentar productos de forma organizada y atractiva, permitiendo visualizar su uso, resaltar sus características y mejorar el impacto visual de la exhibición.
+            p.ms-1.ms-lg-5 Recursos utilizados para presentar productos de forma organizada y atractiva, permitiendo visualizar su uso, resaltar sus características y mejorar el impacto visual de la exhibición.
 
           div(titulo="Recursos gráficos promocionales")
-            p.ms-5 Elementos visuales, como imágenes, ilustraciones, textos y símbolos, diseñados para comunicar campañas, promociones o mensajes comerciales que fortalecen la comunicación y el atractivo de la vitrina.
+            p.ms-1.ms-lg-5 Elementos visuales, como imágenes, ilustraciones, textos y símbolos, diseñados para comunicar campañas, promociones o mensajes comerciales que fortalecen la comunicación y el atractivo de la vitrina.
 
 
     .row.mb-0.justify-content-center.align-items-center
@@ -183,7 +183,7 @@
               p.mb-0 Se invita a consultar el siguiente video donde se explican elementos informativos de exhibición, material publicitario y aplicación de recursos visuales en vitrinas y puntos de venta:
             .col-md-12.col-lg-3.text-center.text-lg-end
               a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=iW35vsn1lc0" target="_blank")
-                span Ver video
+                span Ir al video
                 i.fas.fa-play
 
 </template>

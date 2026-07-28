@@ -200,7 +200,7 @@
 
 
         .bg-fondo-3.br-15.p-4
-          p.mb-0 Por ejemplo, supermercados como Carulla utilizan estrategias visuales y exhibiciones organizadas para destacar productos premium y fortalecer la experiencia de compra de los consumidores.
+          p.mb-0 Por ejemplo, supermercados como Carulla utilizan estrategias visuales y exhibiciones organizadas para destacar productos <em>premium</em> y fortalecer la experiencia de compra de los consumidores.
     
     .bg-full-width.bg-fondo-5
       .container

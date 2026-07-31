@@ -161,7 +161,7 @@ export default {
           },
           {
             numero: '6.2',
-            titulo: 'Aplicación de estrategias comercial',
+            titulo: 'Aplicación de estrategias comerciales',
             hash: 't_6_2',
           },
           {
@@ -377,7 +377,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Responsable Nacional Ecosistema de Recursos Educativos Digitales (RED) - Profesional 06',
+            'Profesional G06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico – Regional Santander',
         },
         {

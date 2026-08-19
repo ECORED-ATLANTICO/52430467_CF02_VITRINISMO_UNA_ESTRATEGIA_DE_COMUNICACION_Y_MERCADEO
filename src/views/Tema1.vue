@@ -45,31 +45,31 @@
               img(src='@/assets/curso/tema1/img05.png' alt='').mx-auto
               .p-4
                 h4.text-center Destacar productos y promociones
-                p.text-center Resalta productos estratégicos, novedades o promociones mediante recursos visuales que captan la atención del consumidor y aumentan su interés por conocer y adquirir la oferta comercial.
+                p Resalta productos estratégicos, novedades o promociones mediante recursos visuales que captan la atención del consumidor y aumentan su interés por conocer y adquirir la oferta comercial.
 
             .tarjeta.tarjeta--blanca.shadow-sm.p-0.h-100
               img(src='@/assets/curso/tema1/img06.png' alt='').mx-auto
               .p-4
                 h4.text-center Organización del punto de venta
-                p.text-center Distribuye los productos de forma ordenada y coherente para optimizar la circulación, facilitar la observación y ofrecer una experiencia de compra clara, agradable y funcional.
+                p Distribuye los productos de forma ordenada y coherente para optimizar la circulación, facilitar la observación y ofrecer una experiencia de compra clara, agradable y funcional.
 
             .tarjeta.tarjeta--blanca.shadow-sm.p-0.h-100
               img(src='@/assets/curso/tema1/img07.png' alt='').mx-auto
               .p-4
                 h4.text-center Facilitar la identificación de productos
-                p.text-center Organiza y presenta los productos de manera lógica para que el cliente los ubique, diferencie y seleccione con rapidez, reduciendo el tiempo de búsqueda.
+                p Organiza y presenta los productos de manera lógica para que el cliente los ubique, diferencie y seleccione con rapidez, reduciendo el tiempo de búsqueda.
 
             .tarjeta.tarjeta--blanca.shadow-sm.p-0.h-100
               img(src='@/assets/curso/tema1/img08.png' alt='').mx-auto
               .p-4
                 h4.text-center Fortalecer la imagen comercial
-                p.text-center Proyecta una identidad visual consistente mediante exhibiciones alineadas con los valores, el estilo y la propuesta comercial, favoreciendo el reconocimiento y posicionamiento de la marca.
+                p Proyecta una identidad visual consistente mediante exhibiciones alineadas con los valores, el estilo y la propuesta comercial, favoreciendo el reconocimiento y posicionamiento de la marca.
 
             .tarjeta.tarjeta--blanca.shadow-sm.p-0.h-100
               img(src='@/assets/curso/tema1/img09.png' alt='').mx-auto
               .p-4
                 h4.text-center Estimular la decisión de compra
-                p.text-center Genera interés y confianza mediante exhibiciones atractivas que influyen en la percepción del consumidor, motivándolo a realizar la compra de forma más rápida y segura.
+                p Genera interés y confianza mediante exhibiciones atractivas que influyen en la percepción del consumidor, motivándolo a realizar la compra de forma más rápida y segura.
 
     .row.mb-3.justify-content-center.align-items-center
       .col-lg-12
@@ -101,37 +101,37 @@
               img(src='@/assets/curso/tema1/img13.png' alt='').mx-auto
               .p-4
                 h4.text-center Afiches promocionales
-                p.text-center Piezas gráficas impresas o digitales que comunican promociones, lanzamientos o campañas mediante imágenes y textos atractivos, con el propósito de captar la atención e informar al consumidor.
+                p Piezas gráficas impresas o digitales que comunican promociones, lanzamientos o campañas mediante imágenes y textos atractivos, con el propósito de captar la atención e informar al consumidor.
 
             .tarjeta.tarjeta--blanca.shadow-sm.p-0.h-100
               img(src='@/assets/curso/tema1/img14.png' alt='').mx-auto
               .p-4
                 h4.text-center Vallas publicitarias
-                p.text-center Estructuras de gran formato ubicadas en espacios estratégicos que difunden mensajes comerciales para aumentar la visibilidad de productos, servicios o marcas y fortalecer su posicionamiento.
+                p Estructuras de gran formato ubicadas en espacios estratégicos que difunden mensajes comerciales para aumentar la visibilidad de productos, servicios o marcas y fortalecer su posicionamiento.
 
             .tarjeta.tarjeta--blanca.shadow-sm.p-0.h-100
               img(src='@/assets/curso/tema1/img15.png' alt='').mx-auto
               .p-4
                 h4.text-center Pantallas digitales
-                p.text-center Dispositivos electrónicos que proyectan contenidos dinámicos, como imágenes, videos y animaciones, para comunicar promociones, generar impacto visual y atraer la atención del público.
+                p Dispositivos electrónicos que proyectan contenidos dinámicos, como imágenes, videos y animaciones, para comunicar promociones, generar impacto visual y atraer la atención del público.
 
             .tarjeta.tarjeta--blanca.shadow-sm.p-0.h-100
               img(src='@/assets/curso/tema1/img16.png' alt='').mx-auto
               .p-4
                 h4.text-center Material POP
-                p.text-center Conjunto de elementos publicitarios ubicados en el punto de venta que destacan productos, refuerzan la identidad de la marca e incentivan la decisión de compra del consumidor.
+                p Conjunto de elementos publicitarios ubicados en el punto de venta que destacan productos, refuerzan la identidad de la marca e incentivan la decisión de compra del consumidor.
 
             .tarjeta.tarjeta--blanca.shadow-sm.p-0.h-100
               img(src='@/assets/curso/tema1/img17.png' alt='').mx-auto
               .p-4
                 h4.text-center Vitrinas temáticas
-                p.text-center Espacios de exhibición diseñados alrededor de un concepto, temporada o campaña, que integran productos y elementos visuales para comunicar un mensaje atractivo y fortalecer la experiencia del cliente.
+                p Espacios de exhibición diseñados alrededor de un concepto, temporada o campaña, que integran productos y elementos visuales para comunicar un mensaje atractivo y fortalecer la experiencia del cliente.
 
             .tarjeta.tarjeta--blanca.shadow-sm.p-0.h-100
               img(src='@/assets/curso/tema1/img18.png' alt='').mx-auto
               .p-4
                 h4.text-center Señalización comercial
-                p.text-center Sistema de elementos gráficos e informativos que orienta al consumidor dentro del punto de venta, facilita la ubicación de productos y mejora la experiencia de compra.
+                p Sistema de elementos gráficos e informativos que orienta al consumidor dentro del punto de venta, facilita la ubicación de productos y mejora la experiencia de compra.
 
     .bloque-texto-g.bloque-texto-g--inverso.bg-color-6.p-3.p-sm-4.p-md-5.mb-3
       .bloque-texto-g__img(

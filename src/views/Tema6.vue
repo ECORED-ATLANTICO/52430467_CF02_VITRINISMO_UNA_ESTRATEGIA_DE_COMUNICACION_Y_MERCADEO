@@ -45,38 +45,38 @@
               img(src='@/assets/curso/tema6/img05.png' alt='').mx-auto
               .p-4
                 h4.text-center Uso de iluminación comercial
-                p.text-center Emplea diferentes tipos de iluminación para resaltar productos, crear ambientes atractivos y dirigir la atención del consumidor hacia áreas estratégicas del punto de venta.
-                p.text-center.mb-0 <strong>Ejemplo:</strong> iluminación LED focal sobre una vitrina de calzado deportivo para destacar una nueva colección.
+                p Emplea diferentes tipos de iluminación para resaltar productos, crear ambientes atractivos y dirigir la atención del consumidor hacia áreas estratégicas del punto de venta.
+                p.mb-0 <strong>Ejemplo:</strong> iluminación LED focal sobre una vitrina de calzado deportivo para destacar una nueva colección.
             .tarjeta.tarjeta--blanca.shadow-sm.p-0.h-100
               img(src='@/assets/curso/tema6/img06.png' alt='').mx-auto
               .p-4
                 h4.text-center Aplicación de colores corporativos
-                p.text-center Incorpora los colores institucionales de la marca en la exhibición para fortalecer su identidad visual, facilitar el reconocimiento y mantener coherencia en la comunicación comercial.
-                p.text-center.mb-0 <strong>Ejemplo:</strong> una tienda de Colgate utiliza el color rojo en exhibidores, señalización y material promocional.
+                p Incorpora los colores institucionales de la marca en la exhibición para fortalecer su identidad visual, facilitar el reconocimiento y mantener coherencia en la comunicación comercial.
+                p.mb-0 <strong>Ejemplo:</strong> una tienda de Colgate utiliza el color rojo en exhibidores, señalización y material promocional.
             .tarjeta.tarjeta--blanca.shadow-sm.p-0.h-100
               img(src='@/assets/curso/tema6/img07.png' alt='').mx-auto
               .p-4
                 h4.text-center Distribución estratégica de productos
-                p.text-center Organiza los productos según criterios comerciales, categorías o niveles de visibilidad para optimizar el recorrido del consumidor y favorecer la compra.
-                p.text-center.mb-0 <strong>Ejemplo:</strong> los productos de mayor rotación se ubican a la altura de los ojos en las góndolas.
+                p Organiza los productos según criterios comerciales, categorías o niveles de visibilidad para optimizar el recorrido del consumidor y favorecer la compra.
+                p.mb-0 <strong>Ejemplo:</strong> los productos de mayor rotación se ubican a la altura de los ojos en las góndolas.
             .tarjeta.tarjeta--blanca.shadow-sm.p-0.h-100
               img(src='@/assets/curso/tema6/img08.png' alt='').mx-auto
               .p-4
                 h4.text-center Implementación de vitrinas temáticas
-                p.text-center Diseña vitrinas basadas en campañas, temporadas o conceptos comerciales que integran productos y elementos decorativos para atraer la atención del público.
-                p.text-center.mb-0 <strong>Ejemplo:</strong> una vitrina navideña exhibe regalos, decoración y productos de temporada con ambientación alusiva.
+                p Diseña vitrinas basadas en campañas, temporadas o conceptos comerciales que integran productos y elementos decorativos para atraer la atención del público.
+                p.mb-0 <strong>Ejemplo:</strong> una vitrina navideña exhibe regalos, decoración y productos de temporada con ambientación alusiva.
             .tarjeta.tarjeta--blanca.shadow-sm.p-0.h-100
               img(src='@/assets/curso/tema6/img09.png' alt='').mx-auto
               .p-4
                 h4.text-center Uso de señalización comercial
-                p.text-center Utiliza elementos gráficos e informativos para orientar al consumidor, identificar categorías, comunicar promociones y facilitar la ubicación de productos dentro del establecimiento.
-                p.text-center.mb-0 <strong>Ejemplo:</strong> señales suspendidas indican las secciones de alimentos, aseo, bebidas y productos en oferta.
+                p Utiliza elementos gráficos e informativos para orientar al consumidor, identificar categorías, comunicar promociones y facilitar la ubicación de productos dentro del establecimiento.
+                p.mb-0 <strong>Ejemplo:</strong> señales suspendidas indican las secciones de alimentos, aseo, bebidas y productos en oferta.
             .tarjeta.tarjeta--blanca.shadow-sm.p-0.h-100
               img(src='@/assets/curso/tema6/img10.png' alt='').mx-auto
               .p-4
                 h4.text-center Aplicación de material gráfico promocional
-                p.text-center Integra afiches, pendones, carteles y otros recursos gráficos para comunicar campañas, promociones y beneficios, fortaleciendo la visibilidad de productos y marcas.
-                p.text-center.mb-0 <strong>Ejemplo:</strong> pendones y afiches anuncian descuentos especiales durante una campaña de aniversario del almacén.
+                p Integra afiches, pendones, carteles y otros recursos gráficos para comunicar campañas, promociones y beneficios, fortaleciendo la visibilidad de productos y marcas.
+                p.mb-0 <strong>Ejemplo:</strong> pendones y afiches anuncian descuentos especiales durante una campaña de aniversario del almacén.
 
 
     .bloque-texto-g.bg-color-6.p-3.p-sm-4.p-md-5.mb-5

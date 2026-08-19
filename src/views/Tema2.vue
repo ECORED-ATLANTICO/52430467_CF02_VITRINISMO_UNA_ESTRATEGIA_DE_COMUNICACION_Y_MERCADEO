@@ -98,28 +98,28 @@
                 .col-8
                   img(src='@/assets/curso/tema2/img08.svg' alt='', style="width: 100px; height: 100px; ").mx-auto
               h4.text-center Volantes promocionales
-              p.text-center Material impreso de fácil distribución que comunica promociones, eventos, productos o servicios mediante información breve y atractiva, con el propósito de captar la atención del público y generar interés comercial.
+              p Material impreso de fácil distribución que comunica promociones, eventos, productos o servicios mediante información breve y atractiva, con el propósito de captar la atención del público y generar interés comercial.
 
             .tarjeta.tarjeta--blanca.shadow-sm.p-4.h-100
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/tema2/img09.svg' alt='', style="width: 100px; height: 100px; ").mx-auto
               h4.text-center Carteles publicitarios
-              p.text-center Piezas gráficas de mediano o gran formato que presentan mensajes comerciales de manera visible, utilizando imágenes y textos para informar, promocionar o fortalecer el reconocimiento de una marca.
+              p Piezas gráficas de mediano o gran formato que presentan mensajes comerciales de manera visible, utilizando imágenes y textos para informar, promocionar o fortalecer el reconocimiento de una marca.
 
             .tarjeta.tarjeta--blanca.shadow-sm.p-4.h-100
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/tema2/img10.svg' alt='', style="width: 100px; height: 100px; ").mx-auto
               h4.text-center Exhibidores comerciales
-              p.text-center Estructuras diseñadas para organizar y presentar productos de forma ordenada and atractiva, facilitando su visualización, acceso y destacando sus características dentro del punto de venta.
+              p Estructuras diseñadas para organizar y presentar productos de forma ordenada y atractiva, facilitando su visualización, acceso y destacando sus características dentro del punto de venta.
 
             .tarjeta.tarjeta--blanca.shadow-sm.p-4.h-100
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/tema2/img11.svg' alt='', style="width: 100px; height: 100px; ").mx-auto
               h4.text-center <em>Displays</em> publicitarios
-              p.text-center Estructuras gráficas o tridimensionales que exhiben productos o mensajes comerciales de manera llamativa, incrementando su visibilidad y fortaleciendo la comunicación de la marca en diferentes espacios comerciales.
+              p Estructuras gráficas o tridimensionales que exhiben productos o mensajes comerciales de manera llamativa, incrementando su visibilidad y fortaleciendo la comunicación de la marca en diferentes espacios comerciales.
 
     .bloque-texto-g.bg-color-6.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(

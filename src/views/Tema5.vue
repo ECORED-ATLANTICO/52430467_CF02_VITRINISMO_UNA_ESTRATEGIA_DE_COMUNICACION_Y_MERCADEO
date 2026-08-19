@@ -46,31 +46,31 @@
               img(src='@/assets/curso/tema5/img04.png' alt='').mx-auto
               .p-4
                 h4.text-center Atracción visual
-                p.text-center Capta el interés del consumidor mediante elementos visuales que generan impacto, despiertan la curiosidad e invitan a observar la exhibición con mayor atención.
+                p Capta el interés del consumidor mediante elementos visuales que generan impacto, despiertan la curiosidad e invitan a observar la exhibición con mayor atención.
 
             .tarjeta.tarjeta--blanca.shadow-sm.p-0.h-100
               img(src='@/assets/curso/tema5/img05.png' alt='').mx-auto
               .p-4
                 h4.text-center Promoción comercial
-                p.text-center Comunica promociones, novedades y productos estratégicos mediante recursos visuales que incrementan su visibilidad y favorecen el cumplimiento de los objetivos de venta.
+                p Comunica promociones, novedades y productos estratégicos mediante recursos visuales que incrementan su visibilidad y favorecen el cumplimiento de los objetivos de venta.
 
             .tarjeta.tarjeta--blanca.shadow-sm.p-0.h-100
               img(src='@/assets/curso/tema5/img06.png' alt='').mx-auto
               .p-4
                 h4.text-center Identidad de marca
-                p.text-center Refuerza el reconocimiento de la marca mediante el uso coherente de colores, formas, elementos gráficos y otros recursos que reflejan su imagen corporativa.
+                p Refuerza el reconocimiento de la marca mediante el uso coherente de colores, formas, elementos gráficos y otros recursos que reflejan su imagen corporativa.
 
             .tarjeta.tarjeta--blanca.shadow-sm.p-0.h-100
               img(src='@/assets/curso/tema5/img07.png' alt='').mx-auto
               .p-4
                 h4.text-center Comunicación comercial
-                p.text-center Transmite información clara sobre productos, beneficios, promociones o campañas, facilitando la comprensión de la oferta y orientando al consumidor durante la compra.
+                p Transmite información clara sobre productos, beneficios, promociones o campañas, facilitando la comprensión de la oferta y orientando al consumidor durante la compra.
 
             .tarjeta.tarjeta--blanca.shadow-sm.p-0.h-100
               img(src='@/assets/curso/tema5/img08.png' alt='').mx-auto
               .p-4
                 h4.text-center Decisión de compra
-                p.text-center Influye positivamente en la elección del consumidor mediante una presentación atractiva y organizada que resalta el valor de los productos exhibidos.
+                p Influye positivamente en la elección del consumidor mediante una presentación atractiva y organizada que resalta el valor de los productos exhibidos.
     
     .bloque-texto-g.bloque-texto-g--inverso.bg-color-6.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(

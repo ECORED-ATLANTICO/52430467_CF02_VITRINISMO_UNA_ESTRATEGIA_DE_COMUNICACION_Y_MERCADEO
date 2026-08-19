@@ -154,7 +154,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Los elementos informativos facilitan la comunicación de características, beneficios and promociones.',
+            '¡Correcto! Los elementos informativos facilitan la comunicación de características, beneficios y promociones.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
